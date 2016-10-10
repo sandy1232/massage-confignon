@@ -24,7 +24,6 @@ $( document ).ready( function() {
   // Navigation avec le clavier.
   ( function() {
     var menuLinks = $( "ul.nav li" );
-    console.log( "menuLinks = ", menuLinks );
     var nbLinks = menuLinks.length;
     var activeLinkIndex = $( "ul.nav li.active" ).first().index();
     var nextLink = $( menuLinks[ activeLinkIndex < (nbLinks - 1) ? activeLinkIndex + 1 : 0           ] ).children( "a" ).attr( 'href' );
