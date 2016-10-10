@@ -1,0 +1,13 @@
+---
+layout: pretty-print-basic
+---
+<html class="{{ page.image-de-fond }}" lang="{{ site.locale }}">
+{% include head.liquid %}
+<body class="theme-invert">
+{% include analyticstracking.liquid %}
+{% comment %}{% include facebook-sdk.liquid %}{% endcomment %}
+{% include navigation.liquid %}
+{{ content }}
+{% include footer.liquid %}
+</body>
+</html>

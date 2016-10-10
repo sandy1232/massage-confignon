@@ -1,0 +1,287 @@
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Ruthie");
+
+
+html {
+	width: 100%;
+	height: 100%;
+	min-height:100%;
+	margin: 0;
+	padding: 0;
+}
+
+html.html-bkg-1 {
+	background: black url( "../../images/massage-confignon-fond-1.jpg" ) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+		 -o-background-size: cover;
+			background-size: cover;
+}
+html.html-bkg-1 .navbar-default .navbar-brand {
+	color: firebrick;
+}
+html.html-bkg-1 .navbar-nav.navbar-right li a {
+	color: firebrick;
+}
+
+html.html-bkg-2 {
+	background: black url( "../../images/massage-confignon-fond-2.jpg" ) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+		 -o-background-size: cover;
+			background-size: cover;
+}
+html.html-bkg-2 .navbar-default .navbar-brand {
+	color: white;
+}
+html.html-bkg-2 .navbar-nav.navbar-right li a {
+	color: white;
+}
+
+html.html-bkg-3 {
+	background: black url( "../../images/massage-confignon-fond-3.jpg" ) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+		 -o-background-size: cover;
+			background-size: cover;
+}
+html.html-bkg-3 .navbar-default .navbar-brand {
+	color: white;
+}
+html.html-bkg-3 .navbar-nav.navbar-right li a {
+	color: white;
+}
+
+html.html-bkg-4 {
+	background: black url( "../../images/massage-confignon-fond-4.jpg" ) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+		 -o-background-size: cover;
+			background-size: cover;
+}
+html.html-bkg-4 .navbar-default .navbar-brand {
+	color: firebrick;
+}
+html.html-bkg-4 .navbar-nav.navbar-right li a {
+	color: firebrick;
+}
+
+html.html-bkg-5 {
+	background: black url( "../../images/massage-confignon-fond-5.jpg" ) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	   -moz-background-size: cover;
+		 -o-background-size: cover;
+			background-size: cover;
+}
+html.html-bkg-5 .navbar-default .navbar-brand {
+	color: white;
+}
+html.html-bkg-5 .navbar-nav.navbar-right li a {
+	color: white;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	text-rendering: optimizeLegibility !important;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 16pt;
+	line-height: 22pt;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #f0d6b8;
+	display: table;
+	margin: 0;
+	background: none;
+}
+
+a {
+	color: inherit;
+}
+a:hover {
+	color: inherit;
+}
+
+hr {
+	border-color: inherit;
+}
+
+h1 {
+	vertical-align: middle;
+	display: table-cell;
+	display:inline-block;
+	font-family: Ruthie, sans-serif;
+	font-size: 50pt;
+}
+
+h2 {
+	margin-top: 40px;
+}
+
+.navbar {
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 10pt;
+	font-weight: bold;
+}
+.navbar-nav.navbar-right li a {
+	color: white;
+	text-transform: uppercase;
+}
+.navbar-nav.navbar-right li a:hover {
+	color: white;
+	text-decoration: underline;
+}
+.navbar-default .navbar-brand {
+	color: white;
+	font-family: Ruthie, sans-serif;
+	font-size: 30pt;
+	font-weight: normal;
+}
+.navbar-default .navbar-brand span {
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 31%;
+}
+.navbar-default .navbar-brand:hover {
+	color: white;
+	font-weight: bold;
+}
+.navbar-default .nav .active a {
+	background-color: transparent;
+	color: #f0d6b8;
+}
+.navbar-default .nav .active a:hover {
+	background-color: transparent;
+	text-decoration: none;
+	cursor: none;
+}
+
+.border {
+	border: 1px solid;
+}
+
+.contenu-principal {
+	border-radius: 20px;
+	background-color: rgba( 0, 0, 0, 0.6 );
+	margin-top: 100px;
+	margin-bottom: 100px;
+	max-width: 700px;
+	padding: 50px 0;
+}
+
+ul {
+	text-align: left;
+	font-size: 90%;
+	line-height: 110%;
+}
+ul li {
+	margin-bottom: 10px;
+}
+
+table {
+	margin: 50px auto;
+	font-size: 90%;
+}
+td {
+	padding: 0;
+}
+td:nth-child( 1 ) {
+	text-align: left;
+	padding: 0 10px 0 0;
+}
+td:nth-child( 2 ) {
+	text-align: left;
+	padding: 0 20px;
+}
+td:nth-child( 3 ) {
+	text-align: right;
+}
+
+img {
+	margin: 40px 0;
+}
+
+blockquote {
+	border-color: inherit;
+}
+
+.notes {
+	font-size: 85%;
+	line-height: 110%;
+	font-style: italic;
+}
+
+.l-instant-precieux {
+	text-transform: lowercase;
+	font-family: Ruthie, sans-serif;
+	font-size: 180%;
+}
+
+.btn-prev-next {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.btn-prev-next a {
+	color: inherit;
+	font-family: Ruthie, sans-serif;
+}
+.btn-prev-next a:active {
+	background-color: transparent !important;
+	box-shadow: none;
+}
+.btn-prev-next .btn {
+	background-color: transparent;
+	border: none;
+}
+.btn-prev-next #bouton-prec, .btn-prev-next #bouton-suiv {
+	font-size: 50pt;
+}
+
+/*http://www.1squarepear.com/adding-a-responsive-bootstrap-image-carousel-that-fades-instead-of-slides/*/
+.carousel.fade {
+  opacity: 1;
+}
+.carousel.fade .item {
+  transition: opacity ease-out 1.2s;
+  left: 0;
+  opacity: 0;
+  top: 0;
+  position: absolute;
+  width: 100%;
+  display: block;
+}
+.carousel.fade .item:first-child {
+  top: auto;
+  opacity: 1;
+  position: relative;
+}
+.carousel.fade .item.active {
+  opacity: 1;
+}
+
+@media print {
+
+	body {
+		font-size: 11pt;
+		line-height: 16pt;
+		font-weight: 400;
+		color: black;
+	}
+
+	.contenu-principal {
+		margin: 0;
+		padding: 0;
+	}
+
+	img {
+		margin-left: auto;
+		margin-right: auto;
+		max-width: 200px !important;
+	}
+
+	div.btn-prev-next {
+		display: none;
+	}
+}

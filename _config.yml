@@ -1,0 +1,24 @@
+
+title: "Massage Confignon"
+description: Massage de bien-être
+locale: fr
+
+url: "http://massage-confignon.ch/"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+exclude: [ "CNAME", "README.md", "Gemfile", "Gemfile.lock" ]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+gems:
+  - jekyll-sitemap

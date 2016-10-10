@@ -1,0 +1,16 @@
+---
+
+---
+<!DOCTYPE html>
+{% capture html-str %}
+	{{ content }}
+{% endcapture %}
+
+{% comment %}
+{{ html-str | remove:'	' | strip_newlines }}
+{% endcomment %}
+
+{{ html-str | remove:'	' | remove:'
+
+' }}
+
