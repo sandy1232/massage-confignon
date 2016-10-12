@@ -10,7 +10,7 @@ else
 fi
 IP=$( ipconfig getifaddr $if )
 echo $IP
-PORT=8081
+PORT=8080
 PORTINUSE=$( lsof -i tcp:$PORT )
 if [ -n "$PORTINUSE" ]; then
     echo "$IP:$PORT already in use"

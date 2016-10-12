@@ -32,6 +32,7 @@ image-de-fond: html-bkg-4
 
 ---
 
+{: class="notes" }
 Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la séance vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.
 
 ## Promotions
