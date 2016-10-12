@@ -22,3 +22,13 @@ defaults:
 
 gems:
   - jekyll-sitemap
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: true
+  profile: false
+  startings: []
