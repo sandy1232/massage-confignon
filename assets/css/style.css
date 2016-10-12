@@ -262,6 +262,10 @@ blockquote {
   opacity: 1;
 }
 
+div.datedechoix a {
+	font-size: 20pt;
+}
+
 @media print {
 
 	body {
