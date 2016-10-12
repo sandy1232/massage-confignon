@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: pretty-print-compress
 ---
+<html class="{{ page.image-de-fond }}" lang="{{ site.locale }}">
+{% include head.liquid %}
+<body class="theme-invert">
+{% include analyticstracking.liquid %}
+{% comment %}{% include facebook-sdk.liquid %}{% endcomment %}
+{% include navigation.liquid %}
 <div class="container text-center contenu-principal animated fadeIn">
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
@@ -8,3 +14,6 @@ layout: default
         </div>
     </div>
 </div>
+{% include footer.liquid %}
+</body>
+</html>
