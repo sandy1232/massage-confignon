@@ -1,6 +1,5 @@
 "use strict";
 
-
 $( document ).ready( function() {
 
 
@@ -20,8 +19,7 @@ $( document ).ready( function() {
 
 
 
-
-  // Navigation avec le clavier.
+  // Navigation avec le clavier et le balayage sur les écrans tactiles.
   ( function() {
     var menuLinks = $( "ul.nav li" );
     var nbLinks = menuLinks.length;
@@ -32,7 +30,6 @@ $( document ).ready( function() {
 
     $( 'a#bouton-prec' ).attr( "href", prevLink );
     $( 'a#bouton-suiv' ).attr( "href", nextLink );
-
 
     Mousetrap.bind( 'left',       function( e ) { navigate_to_page( e, prevLink  ); });
     Mousetrap.bind( 'esc',        function( e ) { navigate_to_page( e, firstLink ); });

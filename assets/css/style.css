@@ -221,8 +221,8 @@ blockquote {
 }
 
 .btn-prev-next {
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-top: -20px;
+	margin-bottom: 15px;
 }
 .btn-prev-next a {
 	color: inherit;
@@ -238,6 +238,9 @@ blockquote {
 }
 .btn-prev-next #bouton-prec, .btn-prev-next #bouton-suiv {
 	font-size: 50pt;
+	vertical-align: baseline;
+	position: relative;
+	top: 1ex;
 }
 
 /*http://www.1squarepear.com/adding-a-responsive-bootstrap-image-carousel-that-fades-instead-of-slides/*/
