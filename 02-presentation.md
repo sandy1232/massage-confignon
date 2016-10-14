@@ -26,4 +26,4 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 
 ## Liens
 
-[reflexo-lignon.ch](http://reflexo-lignon.ch/)
+[Suzanne Himmelberger—<br/>réflexologue](http://reflexo-lignon.ch/)
