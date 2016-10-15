@@ -36,7 +36,7 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ## Promotions
 
-Le massage relaxant de 1h30 est à fr 110.00 tous le mois de novembre !
+Le massage relaxant de 1h30 est à fr 120.00 tout le mois de novembre !
 Profitez-en !
 
 ## Bons cadeaux
