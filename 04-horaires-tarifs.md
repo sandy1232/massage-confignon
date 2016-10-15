@@ -36,7 +36,7 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ## Promotions
 
-Une remise de Frs 30.00 sur tous mes massages durant le mois de novembre !
+Une remise de Frs. 30.00 sur tous mes massages durant le mois de novembre !
 Profitez-en !
 
 ## Bons cadeaux
