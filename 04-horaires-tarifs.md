@@ -17,14 +17,14 @@ image-de-fond: html-bkg-4
 
 ---
 
-| :--                          | :--    | --:     |
-| Massage relaxant             | 1 h    | 110 CHF |
-|                              | 1 h 30 | 150 CHF |
-| Massage aux pierres chaudes  | 1 h 30 | 150 CHF |
-| Massage ayurvédique abhyanga | 1 h 30 | 150 CHF |
-| Massage à la bougie          | 1 h    | 110 CHF |
-| Massage du dos               | 1 h    | 110 CHF |                           
-| Reiki                        | 1 h    | 110 CHF |
+| :--                          | :--  | --:     |
+| Massage relaxant             | 1h   | 110 CHF |
+|                              | 1h30 | 150 CHF |
+| Massage aux pierres chaudes  | 1h30 | 150 CHF |
+| Massage ayurvédique abhyanga | 1h30 | 150 CHF |
+| Massage à la bougie          | 1h   | 110 CHF |
+| Massage du dos               | 1h   | 110 CHF |                           
+| Reiki                        | 1h   | 110 CHF |
 
 
 {% include datedechoix.liquid %}
