@@ -20,3 +20,5 @@ Je vous invite à voyager entre mes différents massages de bien-être. Du *mass
 Au plaisir de vous rencontrer et de vous faire découvrir mes massages.
 
 *Sandy Scheuring*
+
+{% include datedechoix.liquid %}
