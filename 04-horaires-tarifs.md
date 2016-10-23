@@ -23,7 +23,7 @@ image-de-fond: html-bkg-4
 | Massage aux pierres chaudes  | 1 h 30 | 150 CHF |
 | Massage ayurvédique abhyanga | 1 h 30 | 150 CHF |
 | Massage à la bougie          | 1 h    | 110 CHF |
-| Massage du dos               | 1 h    | 110 CHF |                           
+| Massage du dos               | 1 h    | 110 CHF |
 | Reiki                        | 1 h    | 110 CHF |
 
 
@@ -36,7 +36,7 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ## Promotions
 
-Une remise de Frs. 30.00 sur tous mes massages durant le mois de novembre !
+Une remise de 30 CHF sur tous mes massages durant le mois de novembre !
 Profitez-en !
 
 ## Bons cadeaux
