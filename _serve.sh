@@ -1,21 +1,35 @@
 #!/bin/bash
 
-# Obtient l’adresse IP de l’interface utilisée par défaut.
-# L’exécution est arrêtée si le port est utilisé.
+rm -rf _site
+
+# Get default route interface
 if=$(route -n get 0.0.0.0 2>/dev/null | awk '/interface: / {print $2}')
 if [ -n "$if" ]; then
     echo "Default route is through interface $if"
 else
     echo "No default route found"
 fi
+
+# Get IP of the default route interface
 IP=$( ipconfig getifaddr $if )
-echo $IP
-PORT=8080
-PORTINUSE=$( lsof -i tcp:$PORT )
-if [ -n "$PORTINUSE" ]; then
+
+# Find an available port
+PORTMIN=8000
+PORTMAX=8009
+PORT=$PORTMIN
+while true; do
+    PORTINUSE=$( lsof -i tcp:$PORT )
+    if [ -z "$PORTINUSE" ]; then
+        break;
+    fi
     echo "$IP:$PORT already in use"
-    exit 1
-fi
+
+    PORT=$((PORT+1))
+    if [ "$PORT" -gt "$PORTMAX" ]; then
+        echo "No available port found between $PORTMIN and $PORTMAX."
+        exit 1
+    fi
+done
 
 # Enregistre les paramètres dans le fichier de config
 # http://stackoverflow.com/questions/24633919/prepend-heredoc-to-a-file-in-bash
@@ -38,4 +52,4 @@ more $CONFIG_DEV
 
 
 # Démarre Jekyll
-bundle exec jekyll serve --config _config.yml,_config_dev.yml
+bundle exec jekyll serve --config _config.yml,_config_dev.yml --incremental
