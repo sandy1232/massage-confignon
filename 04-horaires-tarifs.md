@@ -36,7 +36,7 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ## Promotions
 
-Une remise de Frs 20 sur le massage aux pierres chaudes durant le mois de février !
+Une remise de Frs 20 sur le massage aux pierres chaudes durant le mois de mars !
 Profitez-en !
 
 ## Bons cadeaux
