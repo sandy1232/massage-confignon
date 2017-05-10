@@ -36,7 +36,7 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ## Promotions
 
-Une remise de Frs 20 sur le massage aux pierres chaudes durant le mois d avril !
+Une remise de Frs 20 sur le massage du dos durant le mois de mai !
 Profitez-en !
 
 ## Bons cadeaux
