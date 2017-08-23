@@ -10,8 +10,8 @@ image-de-fond: html-bkg-4
 {% include prev-next-buttons.liquid %}
 
 | :--      | :--           |
-| Lundi    | 18:15 — 20:00 |
-| Mardi    | 18:15 — 20:00 |
+| Mercredi | 18:15 — 20:00 |
+| Jeudi    | 18:15 — 20:00 |
 | Vendredi | 18:00 — 21:00 |
 | Samedi   | 10:00 — 16:00 |
 
