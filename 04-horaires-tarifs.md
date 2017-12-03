@@ -36,8 +36,6 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ## Promotions
 
-Une remise de Frs 20 sur le massage du dos durant les mois de juillet et Août  !
-Profitez-en !
 
 ## Bons cadeaux
 
