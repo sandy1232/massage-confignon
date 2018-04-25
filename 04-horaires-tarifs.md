@@ -28,7 +28,7 @@ image-de-fond: html-bkg-4
 | Massage en Aromathérapie ciblé
 | Essentiel dos+nuque          | 1 h    | 100 CHF |
 |                              | 30 min.|  50 CHF |
-| Jambes légères               | 45 min.|  70 CHF |
+| Essentiel jambes légères     | 45 min.|  70 CHF |
 
 {% include datedechoix.liquid %}
 
