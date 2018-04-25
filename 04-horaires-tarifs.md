@@ -10,10 +10,10 @@ image-de-fond: html-bkg-4
 {% include prev-next-buttons.liquid %}
 
 | :--      | :--           |
-| Mercredi | 18:15 — 20:00 |
-| Jeudi    | 18:15 — 20:00 |
-| Vendredi | 18:00 — 21:00 |
-| Samedi   | 10:00 — 16:00 |
+| Mercredi | 18:00 — 20:00 |
+| Jeudi    | 15:00 — 20:00 |
+| Vendredi | 15:00 — 20:00 |
+| Samedi   | 10:00 — 17:00 |
 
 ---
 
