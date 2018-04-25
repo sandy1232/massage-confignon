@@ -25,10 +25,10 @@ image-de-fond: html-bkg-4
 | Massage à la bougie          | 1 h    | 100 CHF |          
 | Reiki                        | 1 h    | 100 CHF |
 
-| Massage en aromathérapie ciblé
+| Massage en Aromathérapie ciblé
 | Jambes légères               | 45min. |  70 CHF |
 | Essentiel dos+nuque          | 30min. |  50 CHF |
-                               | 1 h    | 100 CHF |
+|                              | 1 h    | 100 CHF |
 
 {% include datedechoix.liquid %}
 
