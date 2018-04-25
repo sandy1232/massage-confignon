@@ -59,6 +59,8 @@ Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre de
 
 Nos jambes sont mises chaque jour à rude épreuve. Elles doivent non seulement supporter le poids du corps, mais parfois aussi rester immobiles pendant des heures. Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux. Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
+---
+
 ## Reiki
 
 Le *reiki* est une méthode naturelle très douce et très profonde qui apporte un supplément d’énergie pour harmoniser et équilibrer les centres d’énergie du corps. Il libère les tensions, les blocages physiques et émotionnels. Il permet de retrouver et de développer sa relation à soi et ainsi de se reconnecter en profondeur. Il apporte ainsi apaisement et mieux-être.
