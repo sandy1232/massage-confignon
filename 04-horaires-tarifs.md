@@ -11,8 +11,8 @@ image-de-fond: html-bkg-4
 
 | :--      | :--           |
 | Mercredi | 18:00 — 20:00 |
-| Jeudi    | 15:00 — 20:00 |
-| Vendredi | 15:00 — 20:00 |
+| Jeudi    | 14:00 — 20:00 |
+| Vendredi | 14:00 — 20:00 |
 | Samedi   | 10:00 — 17:00 |
 
 ---
