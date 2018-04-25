@@ -26,9 +26,9 @@ image-de-fond: html-bkg-4
 | Reiki                        | 1 h    | 100 CHF |
 
 | Massage en Aromathérapie ciblé
-| Jambes légères               | 45min. |  70 CHF |
-| Essentiel dos+nuque          | 30min. |  50 CHF |
-|                              | 1 h    | 100 CHF |
+| Essentiel dos+nuque          | 1 h    | 100 CHF |
+|                              | 30 min.|  50 CHF |
+| Jambes légères               | 45 min.|  70 CHF |
 
 {% include datedechoix.liquid %}
 
