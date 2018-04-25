@@ -24,6 +24,7 @@ image-de-fond: html-bkg-4
 | Massage ayurvédique abhyanga | 1 h 30 | 140 CHF |
 | Massage à la bougie          | 1 h    | 100 CHF |
 | Massage du dos               | 1 h    | 100 CHF |
+|                              | 30min. |  50 CHF |          
 | Reiki                        | 1 h    | 100 CHF |
 
 
