@@ -47,13 +47,17 @@ Le massage à la bougie est un merveilleux moment de détente et de sérénité 
 
 ---
 
-## Massage du dos
+## Essentiel dos+nuque
 
 Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne. Le massage du dos a des vertus relaxante. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir. Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d'un poids sur vos épaules. Ne dit-on pas. J'en ai pleins le dos. 
 
 ![Massage à la bougie](images/massage-confignon-massage-bougie.jpg){: class="img-responsive img-rounded" }
 
 ---
+
+## Essentiel jambes légères
+
+Nos jambes sont mises chaque jour à rude épreuve. Elles doivent non seulement supporter le poids du corps, mais parfois aussi rester immobiles pendant des heures. Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux. Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
 ## Reiki
 
