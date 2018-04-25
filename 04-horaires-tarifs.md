@@ -22,13 +22,13 @@ image-de-fond: html-bkg-4
 |                              | 1 h 30 | 140 CHF |
 | Massage aux pierres chaudes  | 1 h 30 | 140 CHF |
 | Massage ayurvédique abhyanga | 1 h 30 | 140 CHF |
-| Massage à la bougie          | 1 h    | 100 CHF |
-| Massage du dos               | 1 h    | 100 CHF |
-|                              | 30min. |  50 CHF |          
+| Massage à la bougie          | 1 h    | 100 CHF |          
 | Reiki                        | 1 h    | 100 CHF |
+
 | Massage en aromathérapie ciblé
-| Jambes                       | 45min. |  70 CHF |
-| Dos+nuque                    | 30min. |  50 CHF |
+| Jambes légères               | 45min. |  70 CHF |
+| Essentiel dos+nuque          | 30min. |  50 CHF |
+                               | 1 h    | 100 CHF |
 
 {% include datedechoix.liquid %}
 
@@ -38,7 +38,7 @@ image-de-fond: html-bkg-4
 Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la séance vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.
 
 ## Promotions
-
+Pour ce joli mois de Mai une remise de Frs. 15.00 sur tous mes massages de 1h et 1h30.
 
 ## Bons cadeaux
 
