@@ -26,7 +26,9 @@ image-de-fond: html-bkg-4
 | Massage du dos               | 1 h    | 100 CHF |
 |                              | 30min. |  50 CHF |          
 | Reiki                        | 1 h    | 100 CHF |
-
+| Massage en aromathérapie ciblé
+| Jambes                       | 45min. |  70 CHF |
+| Dos+nuque                    | 30min. |  50 CHF |
 
 {% include datedechoix.liquid %}
 
