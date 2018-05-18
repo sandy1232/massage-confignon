@@ -51,7 +51,7 @@ Le massage à la bougie est un merveilleux moment de détente et de sérénité 
 
 Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne. Le massage du dos a des vertus relaxante. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir. Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d'un poids sur vos épaules. Ne dit-on pas. J'en ai pleins le dos. 
 
-![Massage à la bougie](images/massage-du-dos-30mn.jpg){: class="img-responsive img-rounded" }
+![Massage à la bougie](images/dos.png){: class="img-responsive img-rounded" }
 
 ---
 
