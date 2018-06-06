@@ -38,7 +38,7 @@ image-de-fond: html-bkg-4
 Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la séance vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.
 
 ## Promotions
-Pour ce joli mois de Mai une remise de Frs. 15.00 sur tous mes massages de 1h et 1h30.
+
 
 ## Bons cadeaux
 
