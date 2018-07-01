@@ -20,6 +20,7 @@ image-de-fond: html-bkg-4
 | :--                          | :--    | --:     |
 | Massage relaxant             | 1 h    | 100 CHF |
 |                              | 1 h 30 | 140 CHF |
+|                              | 2 h    | 185 CHF |
 | Massage aux pierres chaudes  | 1 h 30 | 140 CHF |
 | Massage ayurvédique abhyanga | 1 h 30 | 140 CHF |
 | Massage à la bougie          | 1 h    | 100 CHF |          
