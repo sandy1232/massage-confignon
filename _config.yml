@@ -20,7 +20,7 @@ defaults:
     values:
       layout: "page"
 
-gems:
+plugins:
   - jekyll-sitemap
 
 compress_html:

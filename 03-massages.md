@@ -9,7 +9,7 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## Massage relaxant à l’huile essentielle de mélisse ou à l'huile de coco pour l'été.
+## Massage relaxant à l’huile essentielle de mélisse ou à l’huile de coco pour l’été.
 
 Le massage relaxant est un massage à l’huile essentielle de mélisse avec des gestes fluides et englobants. Il libère du stress physique et émotionnel, améliore le sommeil et la circulation sanguine. Il calme le système nerveux, diminue les douleurs et permet de reprendre contact avec son corps et de le ressentir. L’huile essentielle de mélisse a pour vertu d’apaiser et de nous montrer le chemin vers le calme intérieur.
 
@@ -49,8 +49,7 @@ Le massage à la bougie est un merveilleux moment de détente et de sérénité 
 
 ## Essentiel dos+nuque
 
-Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne. Le massage du dos a des vertus relaxante. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir. Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d'un poids sur vos épaules. Ne dit-on pas. J'en ai pleins le dos. 
-
+Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne. Le massage du dos a des vertus relaxantes. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir. Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules. Ne dit-on pas : “J’en ai plein le dos !”
 
 ---
 
