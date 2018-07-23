@@ -29,4 +29,4 @@ Si vous venez en voiture, prenez la sortie d’autoroute *Bernex, Onex, Genève*
 
 ---
 
-<small>Webmaster <a href="mailto:nicolas.jeanmonod@bluewin.ch">Nicolas Jeanmonod</a></small>
+<small>Webmaster <a href="https://jeanmonod.net/">Nicolas Jeanmonod</a></small>
