@@ -23,6 +23,7 @@ image-de-fond: html-bkg-4
 |                              | 2 h    | 185 CHF |
 | Massage aux pierres chaudes  | 1 h 30 | 140 CHF |
 | Massage ayurvédique abhyanga | 1 h 30 | 140 CHF |
+| Massage récupération sportif | 1 h 15 | 120 CHF |
 | Massage à la bougie          | 1 h    | 100 CHF |          
 | Reiki                        | 1 h    | 100 CHF |
 
