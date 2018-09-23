@@ -47,6 +47,12 @@ Le massage à la bougie est un merveilleux moment de détente et de sérénité 
 
 ---
 
+## Massage de récupération du sportif
+
+Il permet d'accroître le débit sanguin du muscle et d'améliorer l'élimination des déchets. En effet, durant l’exercice, les toxines générées par l'effort s'accumulent dans les vaisseaux qui nourrissent les muscles. Mais l'effort crée également des micro-lésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain. Il s’agit donc de drainer et activer le système sanguin intra-musculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres. Ce massage calme la douleur et les crampes, réduit les risques d'accidents musculaires et tendineux. Accordez-vous après votre sport une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
+
+---
+
 ## Essentiel dos+nuque
 
 Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne. Le massage du dos a des vertus relaxantes. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir. Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules. Ne dit-on pas : “J’en ai plein le dos !”
