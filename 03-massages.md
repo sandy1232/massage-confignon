@@ -9,7 +9,7 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## Massage relaxant à l’huile essentielle de mélisse ou à l’huile de coco pour l’été.
+## Massage relaxant à l’huile essentielle de mélisse.
 
 Le massage relaxant est un massage à l’huile essentielle de mélisse avec des gestes fluides et englobants. Il libère du stress physique et émotionnel, améliore le sommeil et la circulation sanguine. Il calme le système nerveux, diminue les douleurs et permet de reprendre contact avec son corps et de le ressentir. L’huile essentielle de mélisse a pour vertu d’apaiser et de nous montrer le chemin vers le calme intérieur.
 
