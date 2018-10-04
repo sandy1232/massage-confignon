@@ -29,4 +29,4 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 ## Liens
 
 [Suzanne Himmelberger — réflexologue<br/>reflexo-lignon.ch](http://reflexo-lignon.ch/)
-[Flyspa — flyspa<br/>flyspa.ch](http://flyspa.ch/)
+[Flyspa — massage à domicile<br/>flyspa.ch](http://flyspa.ch/)
