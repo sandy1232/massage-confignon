@@ -67,6 +67,8 @@ Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre de
 
 Nos jambes sont mises chaque jour à rude épreuve. Elles doivent non seulement supporter le poids du corps, mais parfois aussi rester immobiles pendant des heures. Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux. Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
+![Massage jambes légères — massage-confignon.ch](images/jambes-légères2018.jpg){: class="img-responsive img-rounded" }
+
 ---
 
 ## Reiki
