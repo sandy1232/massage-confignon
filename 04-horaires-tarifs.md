@@ -32,9 +32,8 @@ image-de-fond: html-bkg-4
 |                              | 30 min.|  50 CHF |
 | Essentiel jambes légères     | 45 min.|  70 CHF |
 
-| Abonnement 3 massages 15%    | 1 h    | 255 CHF |
-|                              | 1 h 30 | 355 CHF |
-
+ Abonnement 3 massages 15%     | 1 h    | 255 CHF |
+                               | 1 h 30 | 355 CHF |
 
 
 {% include datedechoix.liquid %}
