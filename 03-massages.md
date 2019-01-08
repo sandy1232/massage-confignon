@@ -92,7 +92,8 @@ Ne dit-on pas : “J’en ai plein le dos !”
 ## Essentiel jambes légères
 
 Nos jambes sont mises chaque jour à rude épreuve. Elles doivent non seulement supporter le poids du corps, mais parfois aussi rester immobiles pendant des heures. 
-Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux. Accordez à vos jambes ce massage pour renouer avec la légèreté.
+Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux. 
+Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
 ![Massage jambes légères — massage-confignon.ch](images/massage-jambes-légères2018.jpg){: class="img-responsive img-rounded" }
 
@@ -100,7 +101,9 @@ Le massage des jambes aux huiles essentielles active la circulation sanguine, d�
 
 ## Reiki
 
-Le *reiki* est une méthode naturelle très douce et très profonde qui apporte un supplément d’énergie pour harmoniser et équilibrer les centres d’énergie du corps. Il libère les tensions, les blocages physiques et émotionnels. Il permet de retrouver et de développer sa relation à soi et ainsi de se reconnecter en profondeur. Il apporte ainsi apaisement et mieux-être.
+Le *reiki* est une méthode naturelle très douce et très profonde qui apporte un supplément d’énergie pour harmoniser et équilibrer les centres d’énergie du corps.
+Il libère les tensions, les blocages physiques et émotionnels. Il permet de retrouver et de développer sa relation à soi et ainsi de se reconnecter en profondeur. 
+Il apporte ainsi apaisement et mieux-être.
 
 > Le *reiki* n’est pas un massage mais une méthode de soin énergétique par le toucher.
 
