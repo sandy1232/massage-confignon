@@ -67,7 +67,8 @@ La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphèr
 
 ## Massage de récupération du sportif
 
-Il permet d'accroître le débit sanguin du muscle et d'améliorer l'élimination des déchets. En effet, durant l’exercice, les toxines générées par l'effort s'accumulent dans les vaisseaux qui nourrissent les muscles. 
+Il permet d'accroître le débit sanguin du muscle et d'améliorer l'élimination des déchets.
+En effet, durant l’exercice, les toxines générées par l'effort s'accumulent dans les vaisseaux qui nourrissent les muscles. 
 Mais l'effort crée également des micro-lésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain. 
 Il s’agit donc de drainer et activer le système sanguin intra-musculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres. 
 Ce massage calme la douleur et les crampes, réduit les risques d'accidents musculaires et tendineux.
