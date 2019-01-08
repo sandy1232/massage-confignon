@@ -22,6 +22,7 @@ image-de-fond: html-bkg-4
 |                              | 1 h 30 | 140 CHF |
 |                              | 2 h    | 185 CHF |
 | Massage aux pierres chaudes  | 1 h 30 | 140 CHF |
+| Massage des 5 continents     | 1 h 15 | 120 CHF |
 | Massage ayurvédique abhyanga | 1 h 30 | 140 CHF |
 | Massage récupération sportif | 1 h 15 | 120 CHF |
 | Massage à la bougie          | 1 h    | 100 CHF |          
@@ -33,7 +34,7 @@ image-de-fond: html-bkg-4
 | Essentiel jambes légères     | 45 min.|  70 CHF |
 
 Abonnement 3 massages 15%      | 1 h    | 255 CHF |
-                               | 1 h 30 | 355 CHF |
+                               | 1 h 30 | 357 CHF |
 
 
 {% include datedechoix.liquid %}
