@@ -31,6 +31,15 @@ Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales
 
 ---
 
+## Massage des 5 continents
+
+Ce magnifique massage vous fera voyager dans différents continents. Réunissant divers techniques simples, d'origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme. Il vous apportera une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental. Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l'énergie du corps et du coeurs.
+
+Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l'agréable odeur des huiles essentielles répartis sur les différentes phases du massage. La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
+A découvrir absolument
+
+---
+
 ## Massage ayurvédique abhyanga
 
 Originaire d’Inde, ce massage à l’huile tiède de sésame fait voyager les sens et permet de rééquilibrer notre corps et ses fonctions. Un soin particulièrement indiqué aux personnes stressées, surmenées, fatiguées et à tous ceux qui ont du mal à décrocher. À la fois relaxant et énergisant, il est très efficace pour réduire la tension nerveuse et dynamiser la circulation sanguine. Il élimine tensions, nœuds et raideurs, draine les lymphes et harmonise votre psyché tout en vous relaxant.
