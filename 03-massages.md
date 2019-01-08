@@ -33,9 +33,12 @@ Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales
 
 ## Massage des 5 continents
 
-Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d'origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme. Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental. Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l'énergie du corps et du coeur.
+Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d'origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme. 
+Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental. 
+Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l'énergie du corps et du coeur.
 
-Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l'agréable odeur des huiles essentielles répartis sur les différentes phases du massage. La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
+Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l'agréable odeur des huiles essentielles répartis sur les différentes phases du massage. 
+La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
 A découvrir absolument
 
 ![Massage des 5 continents](images/massagedes5continents.jpg){: class="img-responsive img-rounded" }
