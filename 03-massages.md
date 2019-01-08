@@ -38,6 +38,8 @@ Ce magnifique massage vous fera voyager dans différents continents. Réunissant
 Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l'agréable odeur des huiles essentielles répartis sur les différentes phases du massage. La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
 A découvrir absolument
 
+![Massage des 5 continents](images/massagedes5continents.jpg){: class="img-responsive img-rounded" }
+
 ---
 
 ## Massage ayurvédique abhyanga
