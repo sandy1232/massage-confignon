@@ -33,10 +33,8 @@ Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales
 
 ## Massage des 5 continents
 
-Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d'origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme. 
-Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental. 
+Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d'origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme.Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental. 
 Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l'énergie du corps et du coeur.
-
 Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l'agréable odeur des huiles essentielles répartis sur les différentes phases du massage. 
 La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
 A découvrir absolument
@@ -67,9 +65,7 @@ La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphèr
 
 ## Massage de récupération du sportif
 
-Il permet d'accroître le débit sanguin du muscle et d'améliorer l'élimination des déchets.
-En effet, durant l’exercice, les toxines générées par l'effort s'accumulent dans les vaisseaux qui nourrissent les muscles. 
-Mais l'effort crée également des micro-lésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain. 
+Il permet d'accroître le débit sanguin du muscle et d'améliorer l'élimination des déchets. En effet, durant l'exercice les toxine générées par l'effort s'accumulent dans les vaisseaux qui nourrissent les muscles. Mais l'effort crée également des micro-lésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain. 
 Il s’agit donc de drainer et activer le système sanguin intra-musculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres. 
 Ce massage calme la douleur et les crampes, réduit les risques d'accidents musculaires et tendineux.
 Accordez-vous après votre sport une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
@@ -101,10 +97,8 @@ Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
 ## Reiki
 
-Le *reiki* est une méthode naturelle très douce et très profonde qui apporte un supplément d’énergie pour harmoniser et équilibrer les centres d’énergie du corps.
-Il libère les tensions, les blocages physiques et émotionnels. Il permet de retrouver et de développer sa relation à soi et ainsi de se reconnecter en profondeur. 
+Le *reiki* est une méthode naturelle très douce et très profonde qui apporte un supplément d’énergie pour harmoniser et équilibrer les centres d’énergie du corps. Il libère les tensions, les blocages physiques et émotionnels. Il permet de retrouver et de développer sa relation à soi et ainsi de se reconnecter en profondeur. 
 Il apporte ainsi apaisement et mieux-être.
-
 > Le *reiki* n’est pas un massage mais une méthode de soin énergétique par le toucher.
 
 ![Reiki](images/massage-confignon-reiki.jpg){: class="img-responsive img-rounded" }
