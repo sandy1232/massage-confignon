@@ -82,7 +82,8 @@ Accordez-vous après votre sport une détente en profondeur pour dénouer vos te
 
 Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne. 
 Le massage du dos a des vertus relaxantes. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir.
-Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules. Ne dit-on pas : “J’en ai plein le dos !”
+Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules. 
+Ne dit-on pas : “J’en ai plein le dos !”
 
 ![Massage du dos — massage-confignon.ch](images/massage-essentiel-dos2018.jpg){: class="img-responsive img-rounded" }
 
