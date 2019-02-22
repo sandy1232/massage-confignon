@@ -22,3 +22,6 @@ Au plaisir de vous rencontrer et de vous faire découvrir mes massages.
 *Sandy Scheuring*
 
 {% include datedechoix.liquid %}
+
+{% include facebook-actu.liquid %}
+

@@ -51,3 +51,7 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ***<i class="fa fa-gift" aria-hidden="true"></i> Faites plaisir à vos proches <i class="fa fa-gift" aria-hidden="true"></i>***
 ***Offrez un bon cadeau !***
+
+---
+
+{% include facebook-actu.liquid %}
