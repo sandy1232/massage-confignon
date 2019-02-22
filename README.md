@@ -1,2 +1,2 @@
 
-<http://massage-confignon.ch/>
+<https://massage-confignon.ch/>
