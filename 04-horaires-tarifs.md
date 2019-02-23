@@ -54,4 +54,6 @@ Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en info
 
 ---
 
+{% include facebook-button-box_count.liquid %}
+
 {% include facebook-actu.liquid %}

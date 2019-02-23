@@ -105,4 +105,6 @@ Il apporte ainsi apaisement et mieux-être.
 
 ---
 
+{% include facebook-button-box_count.liquid %}
+
 {% include facebook-actu.liquid %}

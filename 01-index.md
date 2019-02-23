@@ -23,5 +23,7 @@ Au plaisir de vous rencontrer et de vous faire découvrir mes massages.
 
 {% include datedechoix.liquid %}
 
+{% include facebook-button-box_count.liquid %}
+
 {% include facebook-actu.liquid %}
 

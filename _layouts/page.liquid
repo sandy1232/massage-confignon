@@ -1,11 +1,11 @@
 ---
 layout: pretty-print-compress
 ---
-<html class="{{ page.image-de-fond }}" lang="{{ site.locale }}">
+<html class="{{ page.image-de-fond }}" lang="{{ site.locale }}-{{ site.country }}">
 {% include head.liquid %}
 <body class="theme-invert">
 {% include analyticstracking.liquid %}
-{% comment %}{% include facebook-sdk.liquid %}{% endcomment %}
+{% include facebook-sdk.liquid %}
 {% include navigation.liquid %}
 <div class="container text-center contenu-principal animated fadeIn">
     <div class="row">
