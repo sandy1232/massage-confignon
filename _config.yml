@@ -2,8 +2,7 @@
 title: "Massage Confignon"
 description: "L’instant-précieux — Institut de massages de bien-être à Confignon, Genève"
 locale: fr
-country: CH
-countryfb: FR # FB ne reconnait pas CH
+country: FR # FB ne reconnait pas CH
 
 url: "https://massage-confignon.ch/"
 
