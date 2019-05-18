@@ -33,13 +33,13 @@ Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales
 
 ## Massage des 5 continents
 
-Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d’origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme.Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental.
-Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l’énergie du corps et du coeur.
-Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l’agréable odeur des huiles essentielles répartis sur les différentes phases du massage.
+Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d’origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme. Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental.
+Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l’énergie du corps et du cœur.
+Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l’agréable odeur des huiles essentielles réparties sur les différentes phases du massage.
 La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
-A découvrir absolument
+À découvrir absolument !
 
-![Massage des 5 continents](images/massagedes5continents.jpg){: class="img-responsive img-rounded" }
+![Massage des 5 continents](images/massage-confignon-massage-des-5-continents.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -70,7 +70,7 @@ Il s’agit donc de drainer et activer le système sanguin intra-musculaire. Ain
 Ce massage calme la douleur et les crampes, réduit les risques d’accidents musculaires et tendineux.
 Accordez-vous après votre sport une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
 
- ![Massage de récupération du sportif](images/velocourse2018.jpg){: class="img-responsive img-rounded" }
+ ![Massage de récupération du sportif](images/massage-confignon-massage-sportif-2018.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -81,7 +81,7 @@ Le massage du dos a des vertus relaxantes. Dès la première séance, il permet 
 Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules.
 Ne dit-on pas : “J’en ai plein le dos !”
 
-![Massage du dos — massage-confignon.ch](images/massage-essentiel-dos2018.jpg){: class="img-responsive img-rounded" }
+![Massage du dos — massage-confignon.ch](images/massage-confignon-massage-essentiel-dos-2018.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -91,7 +91,7 @@ Nos jambes sont mises chaque jour à rude épreuve. Elles doivent non seulement 
 Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux.
 Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
-![Massage jambes légères — massage-confignon.ch](images/massage-jambes-légères2018.jpg){: class="img-responsive img-rounded" }
+![Massage jambes légères — massage-confignon.ch](images/massage-confignon-massage-jambes-legeres-2018.jpg){: class="img-responsive img-rounded" }
 
 ---
 
