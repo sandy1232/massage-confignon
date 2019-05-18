@@ -33,10 +33,14 @@ Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales
 
 ## Massage des 5 continents
 
-Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d’origines variées comme le Lomi Lomi, Californien, Suédois, Tuina, Ayurvédique, Reiki ou magnétisme. Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher prise physique et mental.
+Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d’origines variées comme le *lomi lomi*, *californien*, *suédois*, *tui na*, *ayurvédique*, *reiki* ou *magnétisme*. Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher-prise physique et mental.
+
 Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l’énergie du corps et du cœur.
+
 Vous serez emporté et reconnecté à votre énergie vitale par la puissance et l’agréable odeur des huiles essentielles réparties sur les différentes phases du massage.
-La première pour la détox, la deuxième pour la relaxation et le lâcher prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
+
+La première pour la détox, la deuxième pour la relaxation et le lâcher-prise, la dernière pour la revitalisation et la stimulation du système immunitaire.
+
 À découvrir absolument !
 
 ![Massage des 5 continents](images/massage-confignon-massage-des-5-continents.jpg){: class="img-responsive img-rounded" }
@@ -46,8 +50,11 @@ La première pour la détox, la deuxième pour la relaxation et le lâcher prise
 ## Massage ayurvédique abhyanga
 
 Originaire d’Inde, ce massage à l’huile tiède de sésame fait voyager les sens et permet de rééquilibrer notre corps et ses fonctions.
+
 Un soin particulièrement indiqué aux personnes stressées, surmenées, fatiguées et à tous ceux qui ont du mal à décrocher.
+
 À la fois relaxant et énergisant, il est très efficace pour réduire la tension nerveuse et dynamiser la circulation sanguine.
+
 Il élimine tensions, nœuds et raideurs, draine les lymphes et harmonise votre psyché tout en vous relaxant.
 
 ![Massage ayurvédique abhyanga](images/massage-confignon-massage-ayurvedique.jpg){: class="img-responsive img-rounded" }
@@ -57,6 +64,7 @@ Il élimine tensions, nœuds et raideurs, draine les lymphes et harmonise votre 
 ## Massage à la bougie
 
 Le massage à la bougie est un merveilleux moment de détente et de sérénité absolues qui allie agréablement la douceur et la chaleur.
+
 La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphère zen.
 
 ![Massage à la bougie](images/massage-confignon-massage-bougie.jpg){: class="img-responsive img-rounded" }
@@ -65,20 +73,26 @@ La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphèr
 
 ## Massage de récupération du sportif
 
-Il permet d’accroître le débit sanguin du muscle et d’améliorer l’élimination des déchets. En effet, durant l’exercice les toxine générées par l’effort s’accumulent dans les vaisseaux qui nourrissent les muscles. Mais l’effort crée également des micro-lésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain.
-Il s’agit donc de drainer et activer le système sanguin intra-musculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres.
-Ce massage calme la douleur et les crampes, réduit les risques d’accidents musculaires et tendineux.
-Accordez-vous après votre sport une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
+Il permet d’accroître le débit sanguin du muscle et d’améliorer l’élimination des déchets. En effet, durant l’exercice les toxines générées par l’effort s’accumulent dans les vaisseaux qui nourrissent les muscles. Mais l’effort crée également des microlésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain.
+
+Il s’agit donc de drainer et activer le système sanguin intramusculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres.
+
+Ce massage calme la douleur et les crampes, réduit les risques d’accident musculaires et tendineux.
+
+Après votre sport, accordez-vous une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
 
  ![Massage de récupération du sportif](images/massage-confignon-massage-sportif-2018.jpg){: class="img-responsive img-rounded" }
 
 ---
 
-## Essentiel dos+nuque
+## Essentiel dos & nuque
 
 Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne.
+
 Le massage du dos a des vertus relaxantes. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir.
+
 Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules.
+
 Ne dit-on pas : “J’en ai plein le dos !”
 
 ![Massage du dos — massage-confignon.ch](images/massage-confignon-massage-essentiel-dos-2018.jpg){: class="img-responsive img-rounded" }
@@ -88,7 +102,9 @@ Ne dit-on pas : “J’en ai plein le dos !”
 ## Essentiel jambes légères
 
 Nos jambes sont mises chaque jour à rude épreuve. Elles doivent non seulement supporter le poids du corps, mais parfois aussi rester immobiles pendant des heures.
+
 Le massage des jambes aux huiles essentielles active la circulation sanguine, délasse les membres fatigués et tonifie le système veineux.
+
 Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
 ![Massage jambes légères — massage-confignon.ch](images/massage-confignon-massage-jambes-legeres-2018.jpg){: class="img-responsive img-rounded" }
@@ -98,7 +114,9 @@ Accordez à vos jambes ce massage pour renouer avec la légèreté.
 ## Reiki
 
 Le *reiki* est une méthode naturelle très douce et très profonde qui apporte un supplément d’énergie pour harmoniser et équilibrer les centres d’énergie du corps. Il libère les tensions, les blocages physiques et émotionnels. Il permet de retrouver et de développer sa relation à soi et ainsi de se reconnecter en profondeur.
+
 Il apporte ainsi apaisement et mieux-être.
+
 > Le *reiki* n’est pas un massage mais une méthode de soin énergétique par le toucher.
 
 ![Reiki](images/massage-confignon-reiki.jpg){: class="img-responsive img-rounded" }
