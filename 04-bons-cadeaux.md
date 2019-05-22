@@ -17,3 +17,5 @@ image-de-fond: html-bkg-4
 {% include facebook-button-box_count.liquid %}
 
 {% include facebook-actu.liquid %}
+
+❧
