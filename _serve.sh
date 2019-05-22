@@ -48,7 +48,7 @@ EOF
 # see here: http://unix.stackexchange.com/a/20042
 CONFIG_STR=${CONFIG_STR%l}
 printf %s "$CONFIG_STR" > $CONFIG_DEV
-more $CONFIG_DEV
+cat $CONFIG_DEV
 
 
 # Démarre Jekyll
