@@ -44,15 +44,19 @@ image-de-fond: html-bkg-4
 {: class="notes" }
 Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la séance vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.
 
+<!--
 ## Promotions
 
-
-## Bons cadeaux
-
-***<i class="fa fa-gift" aria-hidden="true"></i> Faites plaisir à vos proches <i class="fa fa-gift" aria-hidden="true"></i>***
-***Offrez un bon cadeau !***
+Pas de promotions en ce moment.
+-->
 
 ---
+
+[**Bons cadeaux**
+***<i class="fa fa-gift" aria-hidden="true"></i> Faites plaisir à vos proches <i class="fa fa-gift" aria-hidden="true"></i>***
+***Offrez un bon cadeau !***
+![Bons cadeaux](./images/bon-cadeau.jpg){: class="img-responsive img-rounded" }
+](./bons-cadeaux.html)
 
 {% include facebook-button-box_count.liquid %}
 

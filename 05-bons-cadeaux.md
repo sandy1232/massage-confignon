@@ -1,5 +1,5 @@
 ---
-title: Massage Confignon | Horaires et tarifs
+title: Massage Confignon | Bons cadeaux
 permalink: bons-cadeaux
 published: true
 image-de-fond: html-bkg-4
