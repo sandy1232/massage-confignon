@@ -55,7 +55,7 @@ Pas de promotions en ce moment.
 [**Bons cadeaux**
 ***<i class="fa fa-gift" aria-hidden="true"></i> Faites plaisir à vos proches <i class="fa fa-gift" aria-hidden="true"></i>***
 ***Offrez un bon cadeau !***
-![Bons cadeaux](./images/bon-cadeau.jpg){: class="img-responsive img-rounded" }
+![Bons cadeaux](franchise-fleurs-carte-cadeau.jpg){: class="img-responsive img-rounded" }
 ](./bons-cadeaux.html)
 
 {% include facebook-button-box_count.liquid %}
