@@ -18,7 +18,7 @@ Rte de Chancy 209
 Suisse
 
 <i class="fa fa-mobile" aria-hidden="true"></i>  +41 78 719 27 47
-<i class="fa fa-envelope-o" aria-hidden="true"></i>  sandy.scheuring@sunrise.ch
+<i class="fa fa-envelope-o" aria-hidden="true"></i>  sandy.scheuring@bluewin.ch
 
 ---
 
