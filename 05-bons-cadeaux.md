@@ -2,7 +2,7 @@
 title: Massage Confignon | Bons cadeaux
 permalink: bons-cadeaux
 published: true
-image-de-fond: NOELNOEL
+image-de-fond: boncadeausite
 ---
 
 # Bons cadeaux
