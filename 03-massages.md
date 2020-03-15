@@ -17,6 +17,10 @@ Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, 
 30m. de Reiki et 1h de massage relaxant aux huiles essentielles d'eucalyptus, tea tree, Niaouli, ravintsara, thym à thujanol et citron.
 Pour vous aider à mieux résister et repousser les infections saisonnières. 
 
+![Massage Reiki-Massage](images/massage-confignon-arbredevie.jpg){: class="img-responsive img-rounded" }
+
+---
+
 ## Massage relaxant à l’huile essentielle de mélisse.
 
 Le massage relaxant est un massage à l’huile essentielle de mélisse avec des gestes fluides et englobants. Il libère du stress physique et émotionnel, améliore le sommeil et la circulation sanguine. Il calme le système nerveux, diminue les douleurs et permet de reprendre contact avec son corps et de le ressentir. L’huile essentielle de mélisse a pour vertu d’apaiser et de nous montrer le chemin vers le calme intérieur.
