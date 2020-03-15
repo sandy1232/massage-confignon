@@ -9,6 +9,14 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
+## NOUVEAU
+## Synergie Reiki-Massage aux huiles essentielles.
+
+Boostez, stimulez et défendre votre système immunitaire contre toutes les agressions extérieures que peut subir l'organisme.
+Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, d'améliorer votre sommeil et de renforcer votre système immunitaire.
+30m. de Reiki et 1h de massage relaxant aux huiles essentielles d'eucalyptus, tea tree, Niaouli, ravintsara, thym à thujanol et citron.
+Pour vous aider à mieux résister et repousser les infections saisonnières. 
+
 ## Massage relaxant à l’huile essentielle de mélisse.
 
 Le massage relaxant est un massage à l’huile essentielle de mélisse avec des gestes fluides et englobants. Il libère du stress physique et émotionnel, améliore le sommeil et la circulation sanguine. Il calme le système nerveux, diminue les douleurs et permet de reprendre contact avec son corps et de le ressentir. L’huile essentielle de mélisse a pour vertu d’apaiser et de nous montrer le chemin vers le calme intérieur.
