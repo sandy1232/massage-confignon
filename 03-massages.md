@@ -17,7 +17,7 @@ Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, 
 30m. de Reiki et 1h de massage relaxant aux huiles essentielles d'eucalyptus, tea tree, Niaouli, ravintsara, thym à thujanol et citron.
 Pour vous aider à mieux résister et repousser les infections saisonnières. 
 
-![Massage Reiki-Massage](images/massage-confignon-reiki-massage.jpg){: class="img-responsive img-rounded" }
+![Massage Reiki-Massage](images/masssage-reiki-5.jpg){: class="img-responsive img-rounded" }
 
 ---
 
