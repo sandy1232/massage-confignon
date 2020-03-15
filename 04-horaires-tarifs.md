@@ -18,7 +18,7 @@ image-de-fond: html-bkg-4
 ---
 
 | :--                            | :--     | --:     |
-| Synergie Reiki et massage      | 1 h 30  | 140 CHF | 
+| Synergie reiki et massage      | 1 h 30  | 140 CHF | 
 | Massage relaxant               | 1 h     | 100 CHF |
 |                                | 1 h 30  | 140 CHF |
 |                                | 2 h     | 185 CHF |
