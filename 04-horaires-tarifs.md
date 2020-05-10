@@ -17,9 +17,6 @@ image-de-fond: html-bkg-4
 
 ---
 
-![Massage nosexmassage](images/nosexmassage.jpg){: class="img-responsive img-rounded" }
-
-
 | :--                            | :--     | --:     |
 | Synergie reiki et massage      | 1 h 30  | 140 CHF | 
 | Massage relaxant               | 1 h     | 100 CHF |
@@ -42,6 +39,8 @@ image-de-fond: html-bkg-4
 
 
 {% include datedechoix.liquid %}
+
+![Massage nosexmassage](images/nosexmassage.jpg){: class="img-responsive img-rounded" }
 
 ---
 
