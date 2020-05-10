@@ -40,7 +40,7 @@ image-de-fond: html-bkg-4
 
 {% include datedechoix.liquid %}
 
-##[Massage nosexmassage](images/nosexmassage.jpg){: class="img-responsive img-rounded" }
+![Massage nosexmassage](images/nosexmassage.jpg){: class="img-responsive img-rounded" }
 
 ---
 
