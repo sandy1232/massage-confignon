@@ -12,10 +12,10 @@ image-de-fond: html-bkg-3
 ## NOUVEAU
 ## Synergie Reiki et Massage aux huiles essentielles.
 
-Boostez, stimulez et défendre votre système immunitaire contre toutes les agressions extérieures que peut subir l'organisme.
-Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, d'améliorer votre sommeil et de renforcer votre système immunitaire.
-30m. de Reiki et 1h de massage relaxant aux huiles essentielles d'eucalyptus, tea tree, Niaouli, ravintsara, thym à thujanol et citron.
-Pour vous aider à mieux résister et repousser les infections saisonnières. 
+Boostez, stimulez et défendre votre système immunitaire contre toutes les agressions extérieures que peut subir l’organisme.
+Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, d’améliorer votre sommeil et de renforcer votre système immunitaire.
+Trente minutes de Reiki et une heure de massage relaxant aux huiles essentielles d’eucalyptus, tea tree, niaouli, ravintsara, thym à thujanol et citron.
+Pour vous aider à mieux résister et repousser les infections saisonnières.
 
 ![Massage Reiki-Massage](images/massage-confignon-reiki.jpg){: class="img-responsive img-rounded" }
 
@@ -45,7 +45,7 @@ Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales
 
 ## Massage des 5 continents
 
-Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d’origines variées comme le *lomi lomi*, *californien*, *suédois*, *tui na*, *ayurvédique*, *reiki* ou *magnétisme*. Il vous apportera, une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher-prise physique et mental.
+Ce magnifique massage vous fera voyager dans différents continents réunissant divers techniques simples, d’origines variées comme le *lomi lomi*, *californien*, *suédois*, *tui na*, *ayurvédique*, *reiki* ou *magnétisme*. Il vous apportera une reconnexion à votre source et votre énergie vitale, une détox de votre corps, la libération de certaines charges émotionnelles et un lâcher-prise physique et mental.
 
 Il vous permettra de retrouver confiance en vous, de vous aimer plus, une joie de vivre, un grand sentiment de paix et une harmonisation de l’énergie du corps et du cœur.
 
@@ -85,7 +85,7 @@ La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphèr
 
 ## Massage de récupération du sportif
 
-Il permet d’accroître le débit sanguin du muscle et d’améliorer l’élimination des déchets. En effet, durant l’exercice les toxines générées par l’effort s’accumulent dans les vaisseaux qui nourrissent les muscles. Mais l’effort crée également des microlésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain.
+Il permet d’accroître le débit sanguin du muscle et d’améliorer l’élimination des déchets. En effet, durant l’exercice les toxines générées par l’effort s’accumulent dans les vaisseaux qui nourrissent les muscles. Mais l’effort crée également des microlésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain.
 
 Il s’agit donc de drainer et activer le système sanguin intramusculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres.
 
@@ -101,9 +101,9 @@ Après votre sport, accordez-vous une détente en profondeur pour dénouer vos t
 
 Le dos est le pilier de notre corps. Notre vie stressante et pesante engendre des tensions, raideurs, douleurs des épaules et de la nuque, qui alourdissent notre vie quotidienne.
 
-Le massage du dos a des vertus relaxantes. Dès la première séance, il permet de relâcher les noeuds musculaires et de les assouplir.
+Le massage du dos a des vertus relaxantes. Dès la première séance, il permet de relâcher les nœuds musculaires et de les assouplir.
 
-Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent, le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules.
+Il soulage les douleurs, libère les tensions nerveuses et détend par conséquent le corps tout entier. Vous vous sentirez beaucoup plus léger comme libéré d’un poids sur vos épaules.
 
 Ne dit-on pas : “J’en ai plein le dos !”
 

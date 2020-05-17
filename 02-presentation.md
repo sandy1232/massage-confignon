@@ -20,10 +20,10 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 ## Formations
 
 - Formation *massage des 5 continents*<br/>Golden Age Village — 2018
-- Formation *aromathérapie traditionnelle*<br/>Ecole française des Médecines Douces — 2017
+- Formation *aromathérapie traditionnelle*<br/>École française des Médecines Douces — 2017
 - Formation *massage ayurvédique abyangham-yogic*<br/>Philippe Zemp — 2008
 - Formation *massage aux pierres chaudes*<br/>Art du toucher — 2006
-- Stage     *massage sportif*<br/>Stéphane Query — 2006
+- Stage *massage sportif*<br/>Stéphane Query — 2006
 - Diplôme de *massage classique*<br/>HP-Formation — 2001
 - Formation *reiki*<br/>Atelier du Reiki — 1999
 
