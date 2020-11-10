@@ -89,7 +89,7 @@ Le massage à la bougie est un merveilleux moment de détente et de sérénité 
 
 La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphère zen.
 
-![Massage à la bougie](images/massage-confignon-massage-bougie.jpg){: class="img-responsive img-rounded" }
+![Massage à la bougie](images/bougie.3.jpg){: class="img-responsive img-rounded" }
 
 ---
 
