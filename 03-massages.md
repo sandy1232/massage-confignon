@@ -79,7 +79,7 @@ Un soin particulièrement indiqué aux personnes stressées, surmenées, fatigu�
 
 Il élimine tensions, nœuds et raideurs, draine les lymphes et harmonise votre psyché tout en vous relaxant.
 
-![Massage ayurvédique abhyanga](images/massage-confignon-massage-ayurvedique.jpg){: class="img-responsive img-rounded" }
+![Massage ayurvédique abhyanga](images/ayurvédique.1.jpg){: class="img-responsive img-rounded" }
 
 ---
 
