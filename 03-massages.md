@@ -37,7 +37,7 @@ Le massage relaxant est un massage à l’huile essentielle de mélisse avec des
 
 Ce massage est conseillé à toutes les personnes qui se sentent stressées, anxieuses, tendues par la vie quotidienne.
 
-![Massage relaxant](images/massage-confignon-massage-relaxant.jpg){: class="img-responsive img-rounded" }
+![Massage relaxant](images/aloha.2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
