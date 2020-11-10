@@ -18,6 +18,7 @@ image-de-fond: html-bkg-4
 ---
 
 | :--                            | :--     | --:     |
+| Lomi Lomi                      | 1 h 30  | 140 CHF |
 | Synergie reiki et massage      | 1 h 30  | 140 CHF |
 | Massage relaxant               | 1 h     | 100 CHF |
 |                                | 1 h 30  | 140 CHF |
