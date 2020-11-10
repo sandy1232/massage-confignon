@@ -141,7 +141,7 @@ Il apporte ainsi apaisement et mieux-être.
 
 > Le *reiki* n’est pas un massage mais une méthode de soin énergétique par le toucher.
 
-![Reiki](images/reiki.3.jpg){: class="img-responsive img-rounded" }
+![Reiki](images/reiki.coeur.jpg){: class="img-responsive img-rounded" }
 
 ---
 
