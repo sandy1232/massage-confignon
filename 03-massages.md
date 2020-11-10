@@ -9,7 +9,6 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## NOUVEAU
 ## Synergie Reiki et Massage aux huiles essentielles.
 
 Boostez, stimulez et défendre votre système immunitaire contre toutes les agressions extérieures que peut subir l’organisme.
