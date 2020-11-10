@@ -49,7 +49,7 @@ Les pierres volcaniques disposées le long des méridiens diffusent leurs douces
 
 Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales...
 
-![Massage aux pierres chaudes de basalte](images/massage-confignon-massage-pierres-chaudes.jpg){: class="img-responsive img-rounded" }
+![Massage aux pierres chaudes de basalte](images/pierres-chaudes.2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
