@@ -9,6 +9,14 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
+## Massage Hawaien Lomi Lomi
+## Nouveau
+
+Aloha
+Lomi Lomi, c‘est un soin pour tous vos sens. De l'huile parfumée, des rythmes hawaïens et des gestes qui parcourent le corps comme de douces vagues. Ce soin bien-être est exotique. Ce massage est constitué d'étirement des jambes et des bras, ainsi que de grands mouvements fluides et rythmés, effectués avec les avant-bras, les coudes et les mains sur tout le corps. Il est idéal pour chasser le stress et ce relaxer. Il est alors facile de laisser derrière soi la vie quotidienne. Envie d'un petit voyage sous les tropiques?
+
+![Massage Lomi-Lomi](images/massage-confignon-reiki.jpg){: class="img-responsive img-rounded" }
+
 ## Synergie Reiki et Massage aux huiles essentielles.
 
 Boostez, stimulez et défendre votre système immunitaire contre toutes les agressions extérieures que peut subir l’organisme.
