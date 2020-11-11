@@ -17,8 +17,8 @@ image-de-fond: html-bkg-4
 
 ---
 
-OFFRE DE LANCEMENT POUR LE MOIS DE DECEMBRE 
-LE MASSAGE LOMI LOMI A FRS 120 AU LIEU DE FRS 140
+OFFRE DE LANCEMENT, MOIS DE DECEMBRE. 
+LE MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
 
 | :--                            | :--     | --:     |
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
