@@ -16,7 +16,7 @@ Aloha
 
 Lomi Lomi, c‘est un soin pour tous vos sens. De l'huile parfumée, des rythmes hawaïens et des gestes qui parcourent le corps comme de douces vagues. Ce soin bien-être est exotique. Ce massage est constitué d'étirement des jambes et des bras, ainsi que de grands mouvements fluides et rythmés, effectués avec les avant-bras, les coudes et les mains sur tout le corps. Il est idéal pour chasser le stress et ce relaxer. Il est alors facile de laisser derrière soi la vie quotidienne. Envie d'un petit voyage sous les tropiques?
 
-![Massage Lomi-Lomi](images/aloha.3.jpg){: class="img-responsive img-rounded" }
+![Massage Lomi-Lomi](images/aloha.2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -37,7 +37,7 @@ Le massage relaxant est un massage à l’huile essentielle de mélisse avec des
 
 Ce massage est conseillé à toutes les personnes qui se sentent stressées, anxieuses, tendues par la vie quotidienne.
 
-![Massage relaxant](images/aloha.2.jpg){: class="img-responsive img-rounded" }
+![Massage relaxant](images/aloha.3.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -89,7 +89,7 @@ Le massage à la bougie est un merveilleux moment de détente et de sérénité 
 
 La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphère zen.
 
-![Massage à la bougie](images/bougie.3.jpg){: class="img-responsive img-rounded" }
+![Massage à la bougie](images/bougie.4.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -141,7 +141,7 @@ Il apporte ainsi apaisement et mieux-être.
 
 > Le *reiki* n’est pas un massage mais une méthode de soin énergétique par le toucher.
 
-![Reiki](images/reiki.4.jpg){: class="img-responsive img-rounded" }
+![Reiki](images/reiki.3.jpg){: class="img-responsive img-rounded" }
 
 ---
 
