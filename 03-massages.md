@@ -103,7 +103,7 @@ Ce massage calme la douleur et les crampes, réduit les risques d’accident mus
 
 Après votre sport, accordez-vous une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
 
- ![Massage de récupération du sportif](images/massage-confignon-massage-sportif-2018.jpg){: class="img-responsive img-rounded" }
+ ![Massage de récupération du sportif](images/surf..jpg){: class="img-responsive img-rounded" }
 
 ---
 
