@@ -17,8 +17,8 @@ image-de-fond: html-bkg-4
 
 ---
 
-OFFRE SPECIALE MOIS DE DECEMBRE 
-MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
+OFFRE DE LANCEMENT POUR LE MOIS DE DECEMBRE 
+LE MASSAGE LOMI LOMI A FRS 120 AU LIEU DE FRS 140
 
 | :--                            | :--     | --:     |
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
@@ -49,7 +49,7 @@ MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
 ---
 
 {: class="notes" }
-Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. Passé ce délai, la séance vous sera facturée intégralement. J’accepte uniquement les payements au comptant, en francs suisses et sur place.
+Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. J’accepte les payements par carte visa, matercard, maestro, American Express, Vpay, par Twint et cash.
 
 <!--
 ## Promotions
