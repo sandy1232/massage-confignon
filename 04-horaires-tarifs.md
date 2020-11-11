@@ -17,6 +17,9 @@ image-de-fond: html-bkg-4
 
 ---
 
+OFFRE SPECIALE MOIS DE DECEMBRE 
+MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
+
 | :--                            | :--     | --:     |
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
 | Synergie reiki et massage      | 1 h 30  | 140 CHF |
@@ -38,8 +41,6 @@ image-de-fond: html-bkg-4
 | Abonnement 3 massages 15%      | 1 h     | 255 CHF |
 |                                | 1 h 30  | 357 CHF |
 
-OFFRE SPECIALE MOIS DE DECEMBRE 
-MASSAGE LOMI LOMI Frs 120 AU LIEU DE Frs 140 
 
 ![No Sex Massage](images/nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
 
