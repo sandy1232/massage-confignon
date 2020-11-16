@@ -35,6 +35,8 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 
 ---
 
+{% include datedechoix.liquid %}
+
 {% include facebook-button-box_count.liquid %}
 
 {% include facebook-actu.liquid %}
