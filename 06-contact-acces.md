@@ -29,6 +29,8 @@ Si vous venez en voiture, prenez la sortie d’autoroute *Bernex, Onex, Genève*
 
 ---
 
+{% include datedechoix.liquid %}
+
 {% include facebook-button-box_count.liquid %}
 
 {% include facebook-actu.liquid %}
