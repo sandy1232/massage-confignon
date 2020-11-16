@@ -15,7 +15,7 @@ Je vous propose des massages de qualité prodigués avec cœur et empathie dans 
 
 {% include carousel.liquid %}
 
-Je vous invite à voyager entre mes différents massages de bien-être. Du *massage relaxant aux huiles essentielles de mélisse*, au *massage aux pierres chaudes de basalte nées du cœur des volcans*, en passant par l’Inde avec le *massage ayurvédique*, vous partirez aussi au Japon à la découverte du *reiki* pour finir votre voyage avec l’agréable *massage à la bougie*.
+Je vous invite à voyager entre mes différents massages de bien-être. Du *massage relaxant aux huiles essentielles de mélisse*, au *massage aux pierres chaudes de basalte nées du cœur des volcans*, en passant par l’Inde avec le *massage ayurvédique*, vous partirez aussi au Japon à la découverte du *reiki*, vous vous évaderez sous les tropiques avec le magnifique massage *Hawaien Lomi Lomi*, aux senteurs exotiques, vous découvrirez le massage *des 5 continents*un mélange de différentes techniques de cultures et d'origines variées et pour finir votre voyage avec l’agréable *massage à la bougie*.
 
 Au plaisir de vous rencontrer et de vous faire découvrir mes massages.
 
