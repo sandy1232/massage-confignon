@@ -145,6 +145,8 @@ Il apporte ainsi apaisement et mieux-être.
 
 ---
 
+{% include datedechoix.liquid %}
+
 {% include facebook-button-box_count.liquid %}
 
 {% include facebook-actu.liquid %}
