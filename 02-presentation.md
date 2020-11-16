@@ -31,7 +31,7 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 ## Liens
 
 [Suzanne Himmelberger — réflexologue<br/>reflexo-lignon.ch](https://reflexo-lignon.ch/)
-[Flyspa — massage à domicile<br/>flyspa.ch](https://flyspa.ch/)
+[Carolina Erni — hydrothérapie du colon<br/>ernicarolina.ch](https://ernicarolina.ch/)
 
 ---
 
