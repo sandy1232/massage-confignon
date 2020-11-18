@@ -129,7 +129,7 @@ Le massage des jambes aux huiles essentielles active la circulation sanguine, d�
 
 Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
-![Massage jambes légères — massage-confignon.ch](images/massage-confignon-massage-jambes-legeres-2018.jpg){: class="img-responsive img-rounded" }
+![Massage jambes légères — massage-confignon.ch](images/jambes.1.jpg){: class="img-responsive img-rounded" }
 
 ---
 
