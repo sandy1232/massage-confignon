@@ -38,8 +38,10 @@ MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
 |                                | 30 min  | 50 CHF  |
 | Essentiel jambes légères       | 45 min  | 70 CHF  |
 |                                |         |         |
-| Abonnement 3 massages 15%      | 1 h     | 255 CHF |
-|                                | 1 h 30  | 357 CHF |
+| Abonnement 3 massages 10%      | 1 h     | 270 CHF |
+|                                | 1 h 30  | 375 CHF |   
+| Abonnement 6 massages 15%      | 1 h     | 510 CHF |
+                                 | 1 h 30  | 715 CHF |
 
 
 ![No Sex Massage](images/nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
