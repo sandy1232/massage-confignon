@@ -65,7 +65,7 @@ La première pour la détox, la deuxième pour la relaxation et le lâcher-prise
 
 À découvrir absolument !
 
-![Massage des 5 continents](images/massages-coeur.5.jpg){: class="img-responsive img-rounded" }
+![Massage des 5 continents](images/massage-5-continents.8.jpg){: class="img-responsive img-rounded" }
 
 ---
 
