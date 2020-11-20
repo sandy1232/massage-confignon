@@ -17,7 +17,7 @@ image-de-fond: html-bkg-4
 
 ---
 
-OFFRE DE LANCEMENT, MOIS DE DECEMBRE. 
+OFFRE DE LANCEMENT
 MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
 
 | :--                            | :--     | --:     |
