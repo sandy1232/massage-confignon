@@ -17,9 +17,6 @@ image-de-fond: html-bkg-4
 
 ---
 
-OFFRE DE LANCEMENT
-MASSAGE LOMI LOMI FRS 120 AU LIEU DE FRS 140
-
 | :--                            | :--     | --:     |
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
 | Synergie reiki et massage      | 1 h 30  | 140 CHF |
