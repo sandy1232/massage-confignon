@@ -9,7 +9,6 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## Nouveau
 ## Massage Hawaien Lomi Lomi
 
 Aloha
