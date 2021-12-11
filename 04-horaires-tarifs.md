@@ -9,10 +9,10 @@ image-de-fond: html-bkg-4
 
 {% include prev-next-buttons.liquid %}
 
-| :--      | :--           |
-| Mercredi | 10:00 — 20:00 |
-| Jeudi    | 10:00 — 20:00 |
-| Vendredi | 10:00 — 20:00 |
+| Mardi    | 10:00 — 19:30 |
+| Mercredi | 10:00 — 19:30 |
+| Jeudi    | 10:00 — 19:30 |
+| Vendredi | 10:00 — 19:30 |
 | Samedi   | 10:00 — 17:00 |
 
 ---
@@ -23,7 +23,7 @@ image-de-fond: html-bkg-4
 | Massage relaxant               | 1 h     | 100 CHF |
 |                                | 1 h 30  | 140 CHF |
 |                                | 2 h     | 185 CHF |
-| Massage aux pierres chaudes    | 1 h 30  | 140 CHF |
+| Massage aux pierres chaudes    | 1 h 30  | 160 CHF |
 | Massage des 5 continents       | 1 h 15  | 120 CHF |
 | Massage ayurvédique abhyanga   | 1 h 30  | 140 CHF |
 | Massage récupération sportif   | 1 h 15  | 120 CHF |
