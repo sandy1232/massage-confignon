@@ -11,20 +11,21 @@ image-de-fond: html-bkg-3
 
 ## Soins Energétiques 
 
-Qu'est-ce que les soins énergétiques?
+## Qu'est-ce que les soins énergétiques?
 
 Normalement, dans le corps humain, l'énergie circule librement selon un circuit déterminé et elle nous apporte bien-être et bonne santé.
 En cas de maladie l'énergie est bloqué apportant des vides et des trop pleins à certain endroits.
 
-Les soins énergétiques lèvent ces blocages, remontent les énergies, harmonisent la circulation énergétique. Relance le processus d'auto réparation.
+Les soins énergétiques lèvent ces blocages, remontent les énergies, harmonisent la circulation énergétique.
+Relance le processus d'auto réparation.
 
-Comment se déroule une scéance?
+## Comment se déroule une scéance?
 
 En premier lieu nous parlerons de l'objet de votre venue et instaurerons ensemble une mise en confiance. 
 Puis, confortablement allongé et habillé sur une table de massage, vous serez emmener avec une douce musique à vous détendre et à vous relaxer.
 Je passerais ensuite mes mains au dessus de votre corps afin de recentrer vos corps subtils, éliminer les émotions négatives et les énergies nuisibles, détecter les blocages énergétiques, harmoniser les chakras, relancer et recharger la circulation énergétique, régulation du mouvement primordial.
 
-Vous pouvez faire ce soin soit.
+## Vous pouvez faire ce soin soit.
 
 En prévention pour garder une bonne santé.
 Pour soulager les chocs émotionnels, les états dépressifs, le stress, les angoisses, les peurs etc....
