@@ -5,7 +5,7 @@ published: true
 image-de-fond: html-bkg-3
 ---
 
-# Les massages
+# Les massages et soins énergétiques
 
 {% include prev-next-buttons.liquid %}
 
