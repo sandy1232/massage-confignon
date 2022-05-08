@@ -19,6 +19,7 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 
 ## Formations
 
+- Formation *en soins énergétiques. Enseigné par le Dr. Luc Bodin*
 - Formation *massage Lomi Lomi* — 2020
 - Formation *massage des 5 continents*<br/>Golden Age Village — 2018
 - Formation *aromathérapie traditionnelle*<br/>École française des Médecines Douces — 2017
