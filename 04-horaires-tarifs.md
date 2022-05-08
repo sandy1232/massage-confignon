@@ -34,7 +34,13 @@ image-de-fond: html-bkg-4
 | Essentiel dos & nuque          | 1 h     | 100 CHF |
 |                                | 30 min  | 50 CHF  |
 | Essentiel jambes légères       | 45 min  | 70 CHF  |
-|                                |         |         |
+| 
+| Soins énergétiques  
+| En Prévention                  | 40 min  | 60 CHF  |
+| Atténuer les problèmes de santé| 1 h     | 100 CHF |
+| Evolution personnelle          | 1 h     | 100 CHF |
+
+
 | Abonnement 3 massages 10%      | 1 h     | 270 CHF |
 |                                | 1 h 30  | 375 CHF |   
 | Abonnement 6 massages 15%      | 1 h     | 510 CHF |
