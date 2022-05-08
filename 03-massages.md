@@ -11,8 +11,6 @@ image-de-fond: html-bkg-3
 
 ## Soins Energétiques 
 
-## Qu'est-ce que les soins énergétiques?
-
 Normalement, dans le corps humain, l'énergie circule librement selon un circuit déterminé et elle nous apporte bien-être et bonne santé.
 En cas de maladie l'énergie est bloqué apportant des vides et des trop pleins à certain endroits.
 
@@ -30,7 +28,7 @@ Je passerais ensuite mes mains au dessus de votre corps afin de recentrer vos co
 En prévention pour garder une bonne santé.
 Pour soulager les chocs émotionnels, les états dépressifs, le stress, les angoisses, les peurs etc....
 Pour atténuer tous les problèmes de santé. Douleurs diverses, maladies etc.....
-Favoriser votre évolution personnelle
+Favoriser votre évolution personnelle.
 
 Ce soin peut être fait en soutien à la médecine traditionnelle à tout âge aussi bien pour les enfants, les femmes enceintes et les personnes âgées.
 
