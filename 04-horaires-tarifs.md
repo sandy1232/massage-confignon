@@ -36,9 +36,9 @@ image-de-fond: html-bkg-4
 | Essentiel jambes légères       | 45 min  | 70 CHF  |
 | 
 | Soins énergétiques  
-| En Prévention                  | 40 min  | 60 CHF  |
-| Atténuer les problèmes de santé| 1 h     | 100 CHF |
-| Evolution personnelle          | 1 h     | 100 CHF |
+| En Prévention                  | 40 min  | 70 CHF  |
+| Atténuer les problèmes de santé| 1 h     | 120 CHF |
+| Evolution personnelle          | 1 h     | 120 CHF |
 
 
 | Abonnement 3 massages 10%      | 1 h     | 270 CHF |
