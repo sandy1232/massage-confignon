@@ -34,7 +34,7 @@ Plongez-vous dans un monde de senteurs et de couleurs avec ce massage Altearah B
 
 Suite à votre soin Altearah, si cela vous a plu, sachez que je suis maintenant revendeuse de leur produit donc vous pourrez les acheter sur place à mon cabinet.
 
-![Massage Altearah](images/Altearah.1.jpg){: class="img-responsive img-rounded" }
+![Massage Altearah](images/Altearah.2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
