@@ -18,6 +18,9 @@ image-de-fond: html-bkg-4
 ---
 
 | :--                            | :--     | --:     |
+| Massage Couleurs Altearah      | 1 h     | 110 CHF |
+|                                | 1 h 30  | 150 CHF |
+|                                | 2 h     | 200 CHF |
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
 | Synergie reiki et massage      | 1 h 30  | 140 CHF |
 | Massage relaxant               | 1 h     | 100 CHF |
@@ -35,16 +38,12 @@ image-de-fond: html-bkg-4
 |                                | 30 min  | 50 CHF  |
 | Essentiel jambes légères       | 45 min  | 70 CHF  |
 | 
-| Soins énergétiques  
+| Soins énergétiques & Altearah 
 | En Prévention                  | 40 min  | 75 CHF  |
 | Atténuer les problèmes de santé| 1 h     | 120 CHF |
 | Evolution personnelle          | 1 h     | 120 CHF |
 
 
-| Abonnement 3 massages 10%      | 1 h     | 270 CHF |
-|                                | 1 h 30  | 375 CHF |   
-| Abonnement 6 massages 15%      | 1 h     | 510 CHF |
-|                                | 1 h 30  | 715 CHF |
 
 
 ![No Sex Massage](images/nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
