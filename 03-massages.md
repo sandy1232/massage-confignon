@@ -11,6 +11,8 @@ image-de-fond: html-bkg-3
 
 ## Massage Couleurs & Emotions Altearah Bio
 
+![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
+
 Altearah, c'est 14 couleurs exprimées en Parfums de Soin, Huiles de Soin, Concentrés de Soin, Gommages et Sels de Bain offrant 14 synergies olfactives aromatiques uniques qui viennent instantanément rencontrer l’univers émotionnel. 
 Elles vous offrent la possibilité de transformer et positiver vos émotions pour un bien-être global.
 
