@@ -17,6 +17,8 @@ Altearah, c'est 14 couleurs exprimées en Parfums de Soin, Huiles de massage, Co
 
 Elles vous offrent la possibilité de transformer et positiver vos émotions pour un bien-être global.
 
+--
+
 14 émotions couleurs, 14 synergies d'huiles essentielles. 
 (Chromothérapie, aromathérapie et olfactothérapie)
 14 soins hautement actifs et inspirants pour le corps et l'esprit.
