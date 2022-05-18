@@ -32,7 +32,7 @@ Comment choisir sa couleur ?
 2. Faites votre choix grâce au mot clé associé à la couleur (Pourpre - Énergie, Blanc - Pureté, Vert - Fraîcheur,...).
 3. Choisissez votre couleur en fonction de votre état émotionnel du moment (par exemple si vous êtes stressé, choisissez le Turquoise – Sérénité...).
 
-Plongez-vous dans un monde de senteurs et de couleurs Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
+Plongez-vous dans un monde de senteurs et de couleurs avec Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
 
 Suite à votre soin avec Altearah, si cela vous a plu, sachez que je suis maintenant revendeuse de leur produit donc vous pourrez les acheter sur place à mon cabinet.
 
