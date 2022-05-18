@@ -9,28 +9,30 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## Couleurs & Emotions Altearah Bio
+## Altearah Bio Couleurs & Emotions 
 
 ![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
 
-Altearah, c'est 14 couleurs exprimées en Parfums de Soin, Huiles de Soin, Concentrés de Soin, Gommages et Sels de Bain offrant 14 synergies olfactives aromatiques uniques qui viennent instantanément rencontrer l’univers émotionnel. 
+Altearah, c'est 14 couleurs exprimées en Parfums de Soin, Huiles de massage, Concentrés de Soin, Gommages et Sels de Bain, offrant 14 synergies olfactives aromatiques uniques qui viennent instantanément rencontrer l’univers émotionnel. 
+
 Elles vous offrent la possibilité de transformer et positiver vos émotions pour un bien-être global.
 
-. 14 émotions couleurs, 14 synergies d'huiles essentielles. (Chromothérapie, aromathérapie et olfactothérapie)
-. 14 soins hautement actifs et inspirants pour le corps et l'esprit.
-. Elles sont 100% naturelles, certifiées Bio, pas de tests sur les animaux, végétalien, sans parabène, sans aluminium, sans silicone…
-. Fabriquées dans le sud de la France.
-. Elles agissent au niveau physique, psycho-émotionnel et énergétique.
+14 émotions couleurs, 14 synergies d'huiles essentielles. 
+(Chromothérapie, aromathérapie et olfactothérapie)
+14 soins hautement actifs et inspirants pour le corps et l'esprit.
+100% naturelles, certifiées Bio, pas de tests sur les animaux, végétalien, sans parabène, sans aluminium, sans silicone…
+Fabriquées dans le sud de la France.
+Elles agissent au niveau physique, psycho-émotionnel et énergétique.
 
 Les couleurs sont la vie, nous les percevons les utilisons chaque jours, elles expriment des énergies, des émotions, nous équilibrent et nous font vibrer.
 
 Comment choisir sa couleur ?
 
-Option 1 : Suivez votre instinct et votre attirance vers une couleur en particulier.
-Option 2 : Faites votre choix grâce au mot clé associé à la couleur (Pourpre - Énergie, Blanc - Pureté, Vert - Fraîcheur,...).
-Option 3 : Choisissez votre couleur en fonction de votre état émotionnel du moment (par exemple si vous êtes stressé, choisissez le Turquoise – Sérénité...).
+1. Suivez votre instinct et votre attirance vers une couleur en particulier.
+2. Faites votre choix grâce au mot clé associé à la couleur (Pourpre - Énergie, Blanc - Pureté, Vert - Fraîcheur,...).
+3. Choisissez votre couleur en fonction de votre état émotionnel du moment (par exemple si vous êtes stressé, choisissez le Turquoise – Sérénité...).
 
-Plongez-vous dans un monde de senteurs et de couleurs avec les massages Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
+Plongez-vous dans un monde de senteurs et de couleurs Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
 
 Suite à votre soin avec Altearah, si cela vous a plu, sachez que je suis maintenant revendeuse de leur produit donc vous pourrez les acheter sur place à mon cabinet.
 
