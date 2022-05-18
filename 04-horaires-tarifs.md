@@ -25,17 +25,23 @@ image-de-fond: html-bkg-4
 | Massage récupération sportif   | 1 h 15  | 120 CHF |
 | Massage à la bougie            | 1 h     | 100 CHF |
 
-| Massage avec Altearah couleurs et émotions
+---
+
+| Massage avec Altearah          |         |         |
 | Massage relaxant               | 1 h     | 110 CHF |
 |                                | 1 h 30  | 150 CHF |
 |                                | 2 h     | 200 CHF |
 | Synergie reiki et massage      | 1 h 30  | 150 CHF |
-|                                |         |         |
+
+---
+
 | Massage en aromathérapie ciblé |         |         |
 | Essentiel dos & nuque          | 1 h     | 100 CHF |
 |                                | 30 min  | 50 CHF  |
 | Essentiel jambes légères       | 45 min  | 70 CHF  |
-| 
+
+---
+
 | Soins énergétiques & Altearah 
 | En Prévention                  | 40 min  | 75 CHF  |
 | Atténuer les problèmes de santé| 1 h     | 120 CHF |
