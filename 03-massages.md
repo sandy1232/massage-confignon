@@ -13,7 +13,7 @@ image-de-fond: html-bkg-3
 
 ![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
 
-Altearah, c'est 14 couleurs exprimées en Parfums de Soin, Huiles de massage, Concentrés de Soin, Gommages et Sels de Bain, offrant 14 synergies olfactives aromatiques uniques qui viennent instantanément rencontrer l’univers émotionnel. 
+Altearah, c'est 14 couleurs exprimées en Parfums de Soin, Huiles de massage, Concentrés de Soin, Gommages et Sels de Bain. Offrant 14 synergies olfactives aromatiques uniques qui viennent instantanément rencontrer l’univers émotionnel. 
 
 Elles vous offrent la possibilité de transformer et positiver vos émotions pour un bien-être global.
 
@@ -22,9 +22,14 @@ Elles vous offrent la possibilité de transformer et positiver vos émotions pou
 14 émotions couleurs, 14 synergies d'huiles essentielles. 
 (Chromothérapie, aromathérapie et olfactothérapie)
 14 soins hautement actifs et inspirants pour le corps et l'esprit.
+
+--
+
 100% naturelles, certifiées Bio, pas de tests sur les animaux, végétalien, sans parabène, sans aluminium, sans silicone…
 Fabriquées dans le sud de la France.
 Elles agissent au niveau physique, psycho-émotionnel et énergétique.
+
+--
 
 Les couleurs sont la vie, nous les percevons les utilisons chaque jours, elles expriment des énergies, des émotions, nous équilibrent et nous font vibrer.
 
