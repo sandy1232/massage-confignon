@@ -45,6 +45,8 @@ Comment choisir sa couleur ?
 
 Plongez-vous dans un monde de senteurs et de couleurs avec Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
 
+--
+
 Tous les produits de la marque Altearah sont disponibles à la vente à mon cabinet L'instant précieux.
 
 ![Massage Altearah](images/Altearah.2.jpg){: class="img-responsive img-rounded" }
