@@ -9,7 +9,7 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## Massage Couleurs & Emotions Altearah Bio
+## Couleurs & Emotions Altearah Bio
 
 ![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
 
@@ -30,9 +30,9 @@ Option 1 : Suivez votre instinct et votre attirance vers une couleur en particul
 Option 2 : Faites votre choix grâce au mot clé associé à la couleur (Pourpre - Énergie, Blanc - Pureté, Vert - Fraîcheur,...).
 Option 3 : Choisissez votre couleur en fonction de votre état émotionnel du moment (par exemple si vous êtes stressé, choisissez le Turquoise – Sérénité...).
 
-Plongez-vous dans un monde de senteurs et de couleurs avec ce massage Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
+Plongez-vous dans un monde de senteurs et de couleurs avec les massages Altearah Bio et laissez parler vos émotions - la clef de votre bien-être.
 
-Suite à votre soin Altearah, si cela vous a plu, sachez que je suis maintenant revendeuse de leur produit donc vous pourrez les acheter sur place à mon cabinet.
+Suite à votre soin avec Altearah, si cela vous a plu, sachez que je suis maintenant revendeuse de leur produit donc vous pourrez les acheter sur place à mon cabinet.
 
 ![Massage Altearah](images/Altearah.2.jpg){: class="img-responsive img-rounded" }
 
@@ -48,18 +48,16 @@ Lomi Lomi, c‘est un soin pour tous vos sens. De l'huile parfumée, des rythmes
 
 ---
 
-## Synergie Reiki et Massage aux huiles essentielles.
+## Synergie Reiki et Massage aux huiles essentielles (Altearah)
 
-Boostez, stimulez et défendre votre système immunitaire contre toutes les agressions extérieures que peut subir l’organisme.
 Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, d’améliorer votre sommeil et de renforcer votre système immunitaire.
-Trente minutes de Reiki et une heure de massage relaxant aux huiles essentielles d’eucalyptus, tea tree, niaouli, ravintsara, thym à thujanol et citron.
-Pour vous aider à mieux résister et repousser les infections saisonnières.
+Trente minutes de Reiki et une heure de massage relaxant avec les huiles de couleurs et les parfums de soin (Alearah).
 
 ![Massage Reiki-Massage](images/massage-confignon-reiki.jpg){: class="img-responsive img-rounded" }
 
 ---
 
-## Massage relaxant à l’huile essentielle de mélisse.
+## Massage relaxant à l’huile essentielle de mélisse ou avec Altearah
 
 Le massage relaxant est un massage à l’huile essentielle de mélisse avec des gestes fluides et englobants. Il libère du stress physique et émotionnel, améliore le sommeil et la circulation sanguine. Il calme le système nerveux, diminue les douleurs et permet de reprendre contact avec son corps et de le ressentir. L’huile essentielle de mélisse a pour vertu d’apaiser et de nous montrer le chemin vers le calme intérieur.
 
@@ -163,7 +161,7 @@ Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
 # Energétiques
 
-## Soins Energétiques 
+## Soins Energétiques avec les Parfums Altearah couleurs et émotions
 
 Normalement, dans le corps humain, l'énergie circule librement selon un circuit déterminé et elle nous apporte bien-être et bonne santé.
 En cas de maladie l'énergie est bloqué apportant des vides et des trop pleins à certain endroits.
