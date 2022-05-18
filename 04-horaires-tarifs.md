@@ -17,21 +17,19 @@ image-de-fond: html-bkg-4
 
 ---
 
-| :--                            | :--     | --:     |
-| Massage Couleurs Altearah      | 1 h     | 110 CHF |
-|                                | 1 h 30  | 150 CHF |
-|                                | 2 h     | 200 CHF |
+| :--                            | :--     | --:     | 
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
-| Synergie reiki et massage      | 1 h 30  | 140 CHF |
-| Massage relaxant               | 1 h     | 100 CHF |
-|                                | 1 h 30  | 140 CHF |
-|                                | 2 h     | 185 CHF |
 | Massage aux pierres chaudes    | 1 h 30  | 160 CHF |
 | Massage des 5 continents       | 1 h 15  | 120 CHF |
 | Massage ayurvédique abhyanga   | 1 h 30  | 140 CHF |
 | Massage récupération sportif   | 1 h 15  | 120 CHF |
 | Massage à la bougie            | 1 h     | 100 CHF |
-| Reiki                          | 1 h     | 100 CHF |
+
+| Massage avec Altearah couleurs et émotions
+| Massage relaxant               | 1 h     | 110 CHF |
+|                                | 1 h 30  | 150 CHF |
+|                                | 2 h     | 200 CHF |
+| Synergie reiki et massage      | 1 h 30  | 150 CHF |
 |                                |         |         |
 | Massage en aromathérapie ciblé |         |         |
 | Essentiel dos & nuque          | 1 h     | 100 CHF |
@@ -42,6 +40,7 @@ image-de-fond: html-bkg-4
 | En Prévention                  | 40 min  | 75 CHF  |
 | Atténuer les problèmes de santé| 1 h     | 120 CHF |
 | Evolution personnelle          | 1 h     | 120 CHF |
+| Reiki                          | 1 h     | 110 CHF |
 
 
 
