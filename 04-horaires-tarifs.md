@@ -9,6 +9,9 @@ image-de-fond: html-bkg-4
 
 {% include prev-next-buttons.liquid %}
 
+JE SUIS EN VACANCES DU 02 AU 24 SEPTEMBRE.
+A BIENTÔT
+
 | Mardi    | 10:00 — 19:30 |
 | Mercredi | 10:00 — 19:30 |
 | Jeudi    | 10:00 — 19:30 |
