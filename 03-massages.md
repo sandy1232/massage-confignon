@@ -195,7 +195,6 @@ Je passerais ensuite mes mains au dessus de votre corps afin de recentrer vos co
 En prévention pour garder une bonne santé.
 Pour soulager les chocs émotionnels, les états dépressifs, le stress, les angoisses, les peurs etc....
 Pour atténuer tous les problèmes de santé. Douleurs diverses, maladies etc.....
-Favoriser votre évolution personnelle.
 
 Ce soin peut être fait en soutien à la médecine traditionnelle à tout âge aussi bien pour les enfants, les femmes enceintes et les personnes âgées.
 
