@@ -45,7 +45,6 @@ image-de-fond: html-bkg-4
 | Soins énergétiques & Altearah 
 | En Prévention                  | 45 min  | 80 CHF  |
 | Atténuer les problèmes de santé| 1 h     | 120 CHF |
-| Evolution personnelle          | 1 h     | 120 CHF |
 | Reiki                          | 1 h     | 110 CHF |
 
 
