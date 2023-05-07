@@ -21,9 +21,7 @@ image-de-fond: html-bkg-4
 | Lomi Lomi                      | 1 h 30  | 140 CHF |
 | Massage aux pierres chaudes    | 1 h 30  | 160 CHF |
 | Massage des 5 continents       | 1 h 15  | 120 CHF |
-| Massage ayurvédique abhyanga   | 1 h 30  | 140 CHF |
-| Massage récupération sportif   | 1 h 15  | 120 CHF |
-| Massage à la bougie            | 1 h     | 100 CHF |
+| Massage ayurvédique abhyanga   | 1 h 30  | 140 CHF | 
 
 ---
 
@@ -31,7 +29,7 @@ image-de-fond: html-bkg-4
 | Massage relaxant               | 1 h     | 110 CHF |
 |                                | 1 h 30  | 150 CHF |
 |                                | 2 h     | 200 CHF |
-| Synergie reiki et massage      | 1 h 30  | 150 CHF |
+| Synergie Energétique et massage| 1 h 30  | 150 CHF |
 
 ---
 
