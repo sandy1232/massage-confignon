@@ -63,7 +63,7 @@ Ce massage est conseillé à toutes les personnes qui se sentent stressées, anx
 
 ---
 
-## Synergie Reiki et Massage relaxant Altearah Couleurs & Emotions
+## Synergie Energétique et Massage relaxant Altearah Couleurs & Emotions
 
 Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, d’améliorer votre sommeil et de renforcer votre système immunitaire.
 Trente minutes de Reiki et une heure de massage relaxant avec les huiles de couleurs et les parfums de soin (Alearah).
@@ -121,30 +121,6 @@ Un soin particulièrement indiqué aux personnes stressées, surmenées, fatigu�
 Il élimine tensions, nœuds et raideurs, draine les lymphes et harmonise votre psyché tout en vous relaxant.
 
 ![Massage ayurvédique abhyanga](images/ayurvedique.2.jpg){: class="img-responsive img-rounded" }
-
----
-
-## Massage à la bougie
-
-Le massage à la bougie est un merveilleux moment de détente et de sérénité absolues qui allie agréablement la douceur et la chaleur.
-
-La bougie diffuse des senteurs et embaume la pièce créant ainsi une atmosphère zen.
-
-![Massage à la bougie](images/bougie.5.jpg){: class="img-responsive img-rounded" }
-
----
-
-## Massage de récupération du sportif
-
-Il permet d’accroître le débit sanguin du muscle et d’améliorer l’élimination des déchets. En effet, durant l’exercice les toxines générées par l’effort s’accumulent dans les vaisseaux qui nourrissent les muscles. Mais l’effort crée également des microlésions qui vont entraîner une inflammation : ce sont les courbatures le lendemain.
-
-Il s’agit donc de drainer et activer le système sanguin intramusculaire. Ainsi, les toxines seront chassées et un sang neuf circulera à nouveau dans les fibres.
-
-Ce massage calme la douleur et les crampes, réduit les risques d’accident musculaires et tendineux.
-
-Après votre sport, accordez-vous une détente en profondeur pour dénouer vos tensions musculaires et diminuer votre fatigue.
-
- ![Massage de récupération du sportif](images/surf.1.jpg){: class="img-responsive img-rounded" }
 
 ---
 
