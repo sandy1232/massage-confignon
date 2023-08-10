@@ -15,7 +15,7 @@ Ces années de formations et de pratiques m’ont permis d’acquérir une grand
 
 Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque séance une harmonie entre corps, âme et esprit.
 
-![Sandy Scheuring — massage-confignon.ch](images/sandy2.jpg.jpg){: class="img-responsive img-circle" }
+![Sandy Scheuring — massage-confignon.ch](images/sandy2.jpeg.jpeg){: class="img-responsive img-circle" }
 
 ## Formations
 
