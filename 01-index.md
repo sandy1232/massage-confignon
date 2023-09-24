@@ -9,8 +9,6 @@ image-de-fond: html-bkg-1
 
 {% include prev-next-buttons.liquid %}
 
-Vacances du 7 au 22 septembre 2023
-
 ## Massages de bien-être<br />à Confignon, Genève
 
 Je vous propose des massages de qualité prodigués avec cœur et empathie dans un espace chaleureux et reposant.
