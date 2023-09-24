@@ -9,8 +9,6 @@ image-de-fond: html-bkg-4
 
 {% include prev-next-buttons.liquid %}
 
-Vacances du 7 au 22 septembre 2023
-
 | Mardi    | 10:00 — 19:30 |
 | Mercredi | 10:00 — 19:30 |
 | Jeudi    | 10:00 — 19:30 |
