@@ -9,6 +9,8 @@ image-de-fond: html-bkg-1
 
 {% include prev-next-buttons.liquid %}
 
+JE SUIS ABSENTE DU 18 AU 26 NOVEMBRE 2023
+
 ## Massages de bien-être<br />à Confignon, Genève
 
 Je vous propose des massages de qualité prodigués avec cœur et empathie dans un espace chaleureux et reposant.
