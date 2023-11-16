@@ -9,7 +9,7 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## OFFRE SPECIAL NOEL A OFFRIR OU A S'OFFRIR
+## Offre spéciale Noël à offrir ou à s'offrir
 ## Altearah Bio Couleurs & Emotions 
 ## Pack 2 Massages relaxants Argent et Or 60 min ou 90 min
 
