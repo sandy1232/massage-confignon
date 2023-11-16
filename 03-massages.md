@@ -9,6 +9,11 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
+## SPECIAL NOEL A OFFRIR OU A S'OFFRIR
+## PACK 1 MASSAGE RELAXANT ARGENT ET 1 OR 60 MIN OU 90 MIN
+
+![Massage relaxants](images/Noel-1.pdf){: class="img-responsive img-rounded" }
+
 ## Altearah Bio Couleurs & Emotions 
 
 ![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
