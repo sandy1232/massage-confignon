@@ -9,10 +9,12 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
-## SPECIAL NOEL A OFFRIR OU A S'OFFRIR
-## PACK 2 MASSAGES RELAXANTS ARGENT ET OR 60 MIN OU 90 MIN
+## OFFRE SPECIAL NOEL A OFFRIR OU A S'OFFRIR
+## PACK 2 MASSAGES RELAXANTS COULEUR ARGENT ET OR 60 MIN OU 90 MIN
 
 ![Massage noel](argent.or.1.png){: class="img-responsive img-rounded" }
+
+![Massage noel](argent.or.2.png){: class="img-responsive img-rounded" }
 
 ## Altearah Bio Couleurs & Emotions 
 
