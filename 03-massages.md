@@ -9,6 +9,8 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
+![Massage altearah](images/Noël-1.pdf){: class="img-responsive img-rounded" }pdf
+
 ## Altearah Bio Couleurs & Emotions 
 
 ![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
