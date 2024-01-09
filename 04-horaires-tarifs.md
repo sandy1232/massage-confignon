@@ -9,8 +9,6 @@ image-de-fond: html-bkg-4
 
 {% include prev-next-buttons.liquid %}
 
-JE SUIS ABSENTE DU 18 AU 26 NOVEMBRE 2023
-
 | Mardi    | 10:00 — 19:30 |
 | Mercredi | 10:00 — 19:30 |
 | Jeudi    | 10:00 — 19:30 |
