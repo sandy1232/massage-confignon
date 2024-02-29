@@ -82,7 +82,8 @@ Lomi Lomi, c‘est un soin pour tous vos sens. De l'huile parfumée, des rythmes
 
 ---
 
-## Massage aux pierres chaudes de basalte 1h30 ou 2h à choix.
+## Massage aux pierres chaudes
+##  1h30 ou 2h à choix
 
 Découvrez la douceur des pierres volcaniques et laissez-vous envelopper par une vague de chaleur. En conjuguant les bienfaits du massage relaxant avec le travail en profondeur des pierres, ce massage vous apportera une détente musculaire en profondeur et régénératrice.
 
