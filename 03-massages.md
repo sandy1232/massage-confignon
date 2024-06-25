@@ -66,7 +66,7 @@ Laissez-vous tenter par cette expérience unique et ressentez les bienfaits d'un
 
 Réservez votre séance dès aujourd'hui et redécouvrez le plaisir d'un soin apaisant et régénérant.
 
-![Massage relaxant](images/massage-pieds.jpeg){: class="img-responsive img-rounded" } 
+![Massage relaxant](images/massage-pieds.6.jpg){: class="img-responsive img-rounded" }
 
 ---
 
