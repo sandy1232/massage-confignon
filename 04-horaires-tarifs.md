@@ -9,6 +9,7 @@ image-de-fond: html-bkg-4
 
 {% include prev-next-buttons.liquid %}
 
+| Lundi    | 10:00 — 19:30 |
 | Mardi    | 10:00 — 19:30 |
 | Mercredi | 10:00 — 19:30 |
 | Jeudi    | 10:00 — 19:30 |
@@ -17,12 +18,14 @@ image-de-fond: html-bkg-4
 
 ---
 
-| :--                            | :--     | --:     | 
-| Lomi Lomi                      | 1 h 30  | 140 CHF |
-| Massage aux pierres chaudes    | 1 h 30  | 160 CHF |
-|                                | 2 h 00  | 215 CHF |     
-| Massage des 5 continents       | 1 h 15  | 120 CHF |
-| Massage ayurvédique abhyanga   | 1 h 30  | 140 CHF | 
+| :--                             | :--     | --:     | 
+| Lomi Lomi                       | 1 h 30  | 140 CHF |
+| Massage aux pierres chaudes     | 1 h 30  | 160 CHF |
+|                                 | 2 h 00  | 215 CHF |     
+| Massage des 5 continents        | 1 h 15  | 120 CHF |
+| Massage ayurvédique abhyanga    | 1 h 30  | 140 CHF | 
+| Massage pieds et mains
+| avec un bain de pieds           | 1 h 15  | 120 CHF |
 
 ---
 
