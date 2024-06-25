@@ -9,6 +9,22 @@ image-de-fond: html-bkg-3
 
 {% include prev-next-buttons.liquid %}
 
+## Nouveau 
+## Massage des pieds et des mains avec bain de pieds
+
+Découvrez mon nouveau Massage Apaisant des Pieds et des Mains
+Offrez-vous un moment de pure détente avec mon tout nouveau soin apaisant pour les pieds et les mains. Ce rituel de bien-être commence par un bain de pieds revitalisant avec le sel d'Himalaya de la marque Altehara. Reconnu pour ses nombreuses vertus, ce sel de la couleur blanche correspondant à la pureté est riche en oligo-éléments essentiels qui vous apporteront une sensation de fraîcheur et de relaxation dès les premiers instants. Pendant ce bain de pieds, vous pouvez choisir de regarder une belle vidéo de la nature ou de profiter d'une méditation guidée pour une expérience encore plus relaxante.
+
+Après ce bain de pieds relaxant, je prendrais soin de vos mains avec un massage doux et apaisant, spécialement conçu pour soulager les tensions accumulées. Enfin, je terminerais par un massage des pieds profond et enveloppant, vous offrant un moment de sérénité absolue.
+
+Laissez-vous tenter par cette expérience unique et ressentez les bienfaits d'une détente complète pour votre corps et votre esprit.
+
+Réservez votre séance dès aujourd'hui et redécouvrez le plaisir d'un soin apaisant et régénérant.
+
+![Massage relaxant](images/aloha.3.jpg){: class="img-responsive img-rounded" }
+
+---
+
 ## Altearah Bio Couleurs & Emotions 
 
 ![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
