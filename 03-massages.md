@@ -195,7 +195,7 @@ Je suis une énergéticienne à votre écoute et prêtes à vous aider.
 
 (Soin énergétique enseigné par le Dr. Luc Bodin)
 
-![Soins energetiques](images/aura.1.jpg.jpg){: class="img-responsive img-rounded" }
+![Soins energetiques](images/image.3.jpg){: class="img-responsive img-rounded" }
 
 ---
 
