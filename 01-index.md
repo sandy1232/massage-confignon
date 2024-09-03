@@ -4,7 +4,8 @@ permalink: /
 published: true
 image-de-fond: html-bkg-1
 ---
-FERMETURE DU 02 AU 22 SEPTEMBRE 2024
+JE SUIS EN VACANCES DU 02 AU 22 SEPTEMBRE 2024
+A BIENTÔT.
 
 # Bienvenue à<br />l’instant précieux
 
