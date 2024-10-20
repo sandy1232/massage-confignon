@@ -5,9 +5,6 @@ published: true
 image-de-fond: html-bkg-4
 ---
 
-JE SUIS EN VACANCES DU 02 AU 22 SEPTEMBRE 
-A BIENTÔT
-
 # Horaires & Tarifs
 
 {% include prev-next-buttons.liquid %}
