@@ -4,8 +4,6 @@ permalink: massages
 published: true
 image-de-fond: html-bkg-3
 ---
-JE SUIS EN VACANCES DU 02 AU 22 SEPTEMBRE 2024
-A BIENTÔT.
 
 # Les massages et les soins énergétiques
 
