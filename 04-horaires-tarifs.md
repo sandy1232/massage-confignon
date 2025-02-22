@@ -52,7 +52,7 @@ image-de-fond: html-bkg-4
 
 
 
-![No Sex Massage](images/nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
+![No Sex Massage](images/04-horaires-tarifs-nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
 
 {% include datedechoix.liquid %}
 

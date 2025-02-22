@@ -11,7 +11,7 @@ image-de-fond: html-bkg-3
 
 ## Altearah Bio Couleurs & Émotions
 
-![Massage altearah](images/altearah.3.jpg){: class="img-responsive img-rounded" }
+![Massage altearah](images/03-massages-altearah-3.jpg){: class="img-responsive img-rounded" }
 
 Altearah, c’est 14 couleurs exprimées en Parfums de Soin, Huiles de massage, Concentrés de Soin, Gommages et Sels de Bain. Offrant 14 synergies olfactives aromatiques uniques qui viennent instantanément rencontrer l’univers émotionnel.
 
@@ -49,7 +49,7 @@ Plongez-vous dans un monde de senteurs et de couleurs avec Altearah Bio et laiss
 
 Tous les produits de la marque Altearah sont disponibles à la vente à mon cabinet L’instant précieux.
 
-![Massage Altearah](images/Altearah.2.jpg){: class="img-responsive img-rounded" }
+![Massage Altearah](images/03-massages-altearah-2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -67,7 +67,7 @@ Laissez-vous tenter par cette expérience unique et ressentez les bienfaits d’
 
 Réservez votre séance dès aujourd’hui et redécouvrez le plaisir d’un soin apaisant et régénérant.
 
-![Massage relaxant](images/massage-pieds.jpeg){: class="img-responsive img-rounded" }
+![Massage relaxant](images/03-massages-massage-pieds.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -77,7 +77,7 @@ Le massage relaxant est un massage à l’huile essentielle de mélisse ou Altea
 
 Ce massage est conseillé à toutes les personnes qui se sentent stressées, anxieuses, tendues par la vie quotidienne.
 
-![Massage relaxant](images/aloha.3.jpg){: class="img-responsive img-rounded" }
+![Massage relaxant](images/03-massages-aloha-3.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -86,7 +86,7 @@ Ce massage est conseillé à toutes les personnes qui se sentent stressées, anx
 Un rééquilibrage énergétique avec le Reiki permettra de réduire le stress, d’améliorer votre sommeil et de renforcer votre système immunitaire.
 Trente minutes de Reiki et une heure de massage relaxant avec les huiles de couleurs et les parfums de soin (Alearah).
 
-![Massage Reiki-Massage](images/massage-confignon-reiki.jpg){: class="img-responsive img-rounded" }
+![Massage Reiki-Massage](images/03-massages-reiki.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -96,11 +96,11 @@ Aloha
 
 Lomi Lomi, c‘est un soin pour tous vos sens. De l’huile parfumée, des rythmes hawaïens et des gestes qui parcourent le corps comme de douces vagues. Ce soin bien-être est exotique. Ce massage est constitué d’étirement des jambes et des bras, ainsi que de grands mouvements fluides et rythmés, effectués avec les avant-bras, les coudes et les mains sur tout le corps. Il est idéal pour chasser le stress et se relaxer. Il est alors facile de laisser derrière soi la vie quotidienne. Envie d’un petit voyage sous les tropiques?
 
-![Massage Lomi-Lomi](images/aloha.2.jpg){: class="img-responsive img-rounded" }
+![Massage Lomi-Lomi](images/03-massages-aloha-2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
-## Massage aux pierres chaudes 1 h 30 ou 2 h à choix.
+## Massage aux pierres chaudes 1 h 30 ou 2 h à choix
 
 Découvrez la douceur des pierres volcaniques et laissez-vous envelopper par une vague de chaleur. En conjuguant les bienfaits du massage relaxant avec le travail en profondeur des pierres, ce massage vous apportera une détente musculaire en profondeur et régénératrice.
 
@@ -108,7 +108,7 @@ Les pierres volcaniques disposées le long des méridiens diffusent leurs douces
 
 Un massage à découvrir ou redécouvrir durant nos longues périodes hivernales...
 
-![Massage aux pierres chaudes de basalte](images/pierres-chaudes.2.jpg){: class="img-responsive img-rounded" }
+![Massage aux pierres chaudes de basalte](images/03-massages-pierres-chaudes-2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -124,7 +124,7 @@ La première pour la détox, la deuxième pour la relaxation et le lâcher-prise
 
 À découvrir absolument !
 
-![Massage des 5 continents](images/massage-5-continents.8.jpg){: class="img-responsive img-rounded" }
+![Massage des 5 continents](images/03-massages-massage-5-continents-8.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -138,7 +138,7 @@ Un soin particulièrement indiqué aux personnes stressées, surmenées, fatigu�
 
 Il élimine tensions, nœuds et raideurs, draine les lymphes et harmonise votre psyché tout en vous relaxant.
 
-![Massage ayurvédique abhyanga](images/ayurvedique.2.jpg){: class="img-responsive img-rounded" }
+![Massage ayurvédique abhyanga](images/03-massages-ayurvedique-2.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -152,7 +152,7 @@ Il soulage les douleurs, libère les tensions nerveuses et détend par conséque
 
 Ne dit-on pas : “J’en ai plein le dos !”
 
-![Massage du dos — massage-confignon.ch](images/massage-confignon-massage-essentiel-dos-2018.jpg){: class="img-responsive img-rounded" }
+![Massage du dos — massage-confignon.ch](images/03-massages-essentiel-dos-2018.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -164,7 +164,7 @@ Le massage des jambes aux huiles essentielles active la circulation sanguine, d�
 
 Accordez à vos jambes ce massage pour renouer avec la légèreté.
 
-![Massage jambes légères — massage-confignon.ch](images/yoga.6.jpg){: class="img-responsive img-rounded" }
+![Massage jambes légères — massage-confignon.ch](images/03-massages-yoga-6.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -178,13 +178,13 @@ En cas de maladie l’énergie est bloquée apportant des vides et des trop-plei
 Les soins énergétiques lèvent ces blocages, remontent les énergies, harmonisent la circulation énergétique.
 Relance le processus d’autoréparation.
 
-## Comment se déroule une séance?
+## Comment se déroule une séance ?
 
 En premier lieu nous parlerons de l’objet de votre venue et instaurerons ensemble une mise en confiance.
 Puis, confortablement allongé et habillé sur une table de massage, je vous ferais respirer un parfum de soin de la marque Altearah que vous aurez choisi préalablement la couleur. Puis vous serez emmené avec une douce musique à vous détendre et à vous relaxer.
 Je passerais ensuite mes mains au-dessus de votre corps afin de recentrer vos corps subtils, éliminer les émotions négatives et les énergies nuisibles, détecter les blocages énergétiques, harmoniser les chakras, relancer et recharger la circulation énergétique, régulation du mouvement primordial.
 
-## Vous pouvez faire ce soin soit.
+## Vous pouvez faire ce soin
 
 En prévention pour garder une bonne santé.
 Pour soulager les chocs émotionnels, les états dépressifs, le stress, les angoisses, les peurs, etc.
@@ -196,7 +196,7 @@ Je suis une énergéticienne à votre écoute et prête à vous aider.
 
 (Soin énergétique enseigné par le Dr Luc Bodin)
 
-![Soins énergétiques](images/image.3.jpg){: class="img-responsive img-rounded" }
+![Soins énergétiques](images/03-massages-image-3.jpg){: class="img-responsive img-rounded" }
 
 ---
 
@@ -208,7 +208,7 @@ Il apporte ainsi apaisement et mieux-être.
 
 > Le _reiki_ n’est pas un massage mais une méthode de soin énergétique par le toucher.
 
-![Reiki](images/reiki.4.jpg){: class="img-responsive img-rounded" }
+![Reiki](images/03-massages-reiki-4.jpg){: class="img-responsive img-rounded" }
 
 ---
 
