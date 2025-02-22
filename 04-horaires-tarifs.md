@@ -18,12 +18,12 @@ image-de-fond: html-bkg-4
 
 ---
 
-| :--                             | :--     | --:     | 
+| :--                             | :--     | --:     |
 | Lomi Lomi                       | 1 h 30  | 140 CHF |
 | Massage aux pierres chaudes     | 1 h 30  | 160 CHF |
-|                                 | 2 h 00  | 215 CHF |     
+|                                 | 2 h 00  | 215 CHF |
 | Massage des 5 continents        | 1 h 15  | 120 CHF |
-| Massage ayurvédique abhyanga    | 1 h 30  | 140 CHF | 
+| Massage ayurvédique abhyanga    | 1 h 30  | 140 CHF |
 | Massage pieds et mains
 | avec un bain de pieds           | 1 h 15  | 120 CHF |
 
@@ -33,7 +33,7 @@ image-de-fond: html-bkg-4
 | Massage relaxant               | 1 h     | 110 CHF |
 |                                | 1 h 30  | 150 CHF |
 |                                | 2 h     | 200 CHF |
-| Synergie Energétique et massage| 1 h 30  | 150 CHF |
+| Synergie Énergétique et massage| 1 h 30  | 150 CHF |
 
 ---
 
@@ -44,7 +44,7 @@ image-de-fond: html-bkg-4
 
 ---
 
-| Soins énergétiques & Altearah 
+| Soins énergétiques & Altearah
 | En Prévention                  | 45 min  | 80 CHF  |
 | Atténuer les problèmes de santé| 1 h     | 120 CHF |
 | Reiki                          | 1 h     | 110 CHF |
