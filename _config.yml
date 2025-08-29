@@ -23,6 +23,7 @@ defaults:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 compress_html:
   clippings: all

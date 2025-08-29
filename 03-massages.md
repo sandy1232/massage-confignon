@@ -3,6 +3,7 @@ title: Massage Confignon | Les massages
 permalink: massages
 published: true
 image-de-fond: html-bkg-3
+redirect_to: https://boutique-bien-etre.com/9-massages
 ---
 
 # Les massages et les soins énergétiques
