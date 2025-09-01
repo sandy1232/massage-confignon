@@ -25,6 +25,37 @@
 
 rm -rf _site
 
+#!/bin/bash
+
+# Fonction pour afficher un QR code à partir d'une URL
+show_qrcode() {
+    local url="$1"
+
+    # Vérifier si une URL a été fournie
+    if [ -z "$url" ]; then
+        echo "❌ Erreur : Aucune URL fournie"
+        echo "Usage: show_qrcode \"https://example.com\""
+        return 1
+    fi
+
+    # Vérifier si qrencode est installé
+    if ! command -v qrencode >/dev/null 2>&1; then
+        echo "❌ qrencode n'est pas installé."
+        echo ""
+        echo "Pour l'installer :"
+        echo "  • Ubuntu/Debian : sudo apt install qrencode"
+        echo "  • CentOS/RHEL   : sudo yum install qrencode"
+        echo "  • Fedora        : sudo dnf install qrencode"
+        echo "  • Arch Linux    : sudo pacman -S qrencode"
+        echo "  • macOS         : brew install qrencode"
+        echo ""
+        return 1
+    fi
+
+    # Afficher le QR code
+    qrencode -t ansiutf8 "$url"
+}
+
 # Get default route interface
 if=$(route -n get 0.0.0.0 2>/dev/null | awk '/interface: / {print $2}')
 if [ -n "$if" ]; then
@@ -57,8 +88,9 @@ done
 # Saves the settings in the development config file.
 # http://stackoverflow.com/questions/24633919/prepend-heredoc-to-a-file-in-bash
 CONFIG_DEV="_config_dev.yml"
+URL="http://${IP}:${PORT}"
 read -r -d '' CONFIG_STR << EOF
-url: http://$IP:$PORT
+url: $URL
 host: $IP
 port: $PORT
 baseurl: ""
@@ -75,13 +107,17 @@ CONFIG_STR=${CONFIG_STR%l}
 printf %s "$CONFIG_STR" > $CONFIG_DEV
 cat $CONFIG_DEV
 
+
+show_qrcode "${URL}"
+
 # Use ruby from Homebrew
 ruby -v
 which ruby
 # export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 # Ruby 3.3 doesn’t work. Install ruby 3.1 with
 # brew install ruby@3.1
-export PATH="/opt/homebrew/Cellar/ruby@3.1/3.1.4/bin:$PATH"
+# export PATH="/opt/homebrew/Cellar/ruby@3.1/3.1.4/bin:$PATH"
+export PATH="/opt/homebrew/opt/ruby/bin/ruby:$PATH"
 ruby -v
 which ruby
 
