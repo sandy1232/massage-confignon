@@ -21,7 +21,7 @@ Au plaisir de vous rencontrer et de vous faire découvrir mes massages.
 
 *Sandy Scheuring*
 
-{% include datedechoix.liquid %}
+{% include bbe-massages-reservez.liquid %}
 
 {% include facebook-button-box_count.liquid %}
 

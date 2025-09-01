@@ -18,48 +18,16 @@ image-de-fond: html-bkg-4
 
 ---
 
-| :--                             | :--     | --:     |
-| Lomi Lomi                       | 1 h 30  | 140 CHF |
-| Massage aux pierres chaudes     | 1 h 30  | 160 CHF |
-|                                 | 2 h 00  | 215 CHF |
-| Massage des 5 continents        | 1 h 15  | 120 CHF |
-| Massage ayurvédique abhyanga    | 1 h 30  | 140 CHF |
-| Massage pieds et mains
-| avec un bain de pieds           | 1 h 15  | 120 CHF |
-
----
-
-| Massage avec Altearah          |         |         |
-| Massage relaxant               | 1 h     | 110 CHF |
-|                                | 1 h 30  | 150 CHF |
-|                                | 2 h     | 200 CHF |
-| Synergie Énergétique et massage| 1 h 30  | 150 CHF |
-
----
-
-| Massage en aromathérapie ciblé |         |         |
-| Essentiel dos & nuque          | 1 h     | 100 CHF |
-|                                | 30 min  | 50 CHF  |
-| Essentiel jambes légères       | 45 min  | 70 CHF  |
-
----
-
-| Soins énergétiques & Altearah
-| En Prévention                  | 45 min  | 80 CHF  |
-| Atténuer les problèmes de santé| 1 h     | 120 CHF |
-| Reiki                          | 1 h     | 110 CHF |
-
-
-
+{% include bbe-massages-reservez.liquid %}
 
 ![No Sex Massage](images/04-horaires-tarifs-nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
 
-{% include datedechoix.liquid %}
+{% include bbe-massages-reservez.liquid %}
 
 ---
 
 {: class="notes" }
-Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. J’accepte les payements par carte visa, matercard, maestro, American Express, Vpay, par Twint et cash.
+Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. J’accepte les payements par carte Visa, Matercard, Maestro, American Express, Vpay, par Twint et en espèce.
 
 <!--
 ## Promotions

@@ -29,7 +29,7 @@ Si vous venez en voiture, prenez la sortie d’autoroute *Bernex, Onex, Genève*
 
 ---
 
-{% include datedechoix.liquid %}
+{% include bbe-massages-reservez.liquid %}
 
 {% include facebook-button-box_count.liquid %}
 
