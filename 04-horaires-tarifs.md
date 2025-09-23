@@ -20,9 +20,9 @@ image-de-fond: html-bkg-4
 
 {% include bbe-massages-reservez.liquid %}
 
+<!--
 ![No Sex Massage](images/04-horaires-tarifs-nosexmassage.png){: class="img-responsive img-rounded center-block" style="opacity:0.7; width:225px" }
-
-{% include bbe-massages-reservez.liquid %}
+ -->
 
 ---
 
