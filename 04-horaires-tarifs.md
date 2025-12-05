@@ -27,7 +27,8 @@ image-de-fond: html-bkg-4
 ---
 
 {: class="notes" }
-Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance. J’accepte les payements par carte Visa, Matercard, Maestro, American Express, Vpay, par Twint et en espèce.
+Si vous désirez modifier ou annuler un rendez-vous, je vous prie de m’en informer au plus tard un jour ouvrable à l’avance.
+J’accepte les payements par carte Visa, Matercard, Maestro, American Express, Vpay, par Twint et en espèce.
 
 <!--
 ## Promotions
