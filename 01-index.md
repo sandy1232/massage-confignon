@@ -15,7 +15,7 @@ Je te propose des massages de qualité prodigués avec cœur et empathie dans un
 
 {% include carousel.liquid %}
 
-Je t’invite à voyager entre mes différents massages de bien-être. Du *massage relaxant aux huiles essentielles de mélisse ou aux synergies Altearah*, au *massage aux pierres chaudes de basalte nées du cœur des volcans*, en passant par l’Inde avec le *massage ayurvédique*, tu partiras aussi au Japon à la découverte du *reiki*. Tu t’évaderas sous les tropiques avec le magnifique massage *hawaïen Lomi Lomi*, aux senteurs exotiques, et tu découvriras le massage *des 5 continents* : un mélange de techniques venues de cultures et d’origines variées.
+Je t’invite à voyager entre mes différents massages de bien-être. Du *massage relaxant Altearah couleurs & émotions*, au *massage aux pierres chaudes de basalte nées du cœur des volcans*, en passant par l’Inde avec le *massage ayurvédique*, tu partiras aussi au Japon à la découverte du *reiki*. Tu t’évaderas sous les tropiques avec le magnifique massage *hawaïen Lomi Lomi*, aux senteurs exotiques, et tu découvriras le massage *des 5 continents* : un mélange de techniques venues de cultures et d’origines variées.
 
 Pour finir ton voyage, découvre le *Sarga Bodywork*, nouveau à Genève : un massage profond de relâchement myofascial pratiqué avec les pieds, aux mouvements lents, enveloppants et précis.
 
