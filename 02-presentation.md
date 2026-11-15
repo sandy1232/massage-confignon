@@ -19,7 +19,7 @@ Je suis une passionnée du bien-être et mon objectif est d’apporter à chaque
 
 ## Formations
 
-- Formation *Sarga Bodywork*<br>Déhlia Lapeyre, OMIRI — 2026
+- Formation *Sarga Bodywork*<br>Déhlia Lapeyrie, ŌMIRI — 2026
 - Formation *en soins énergétiques. Enseigné par le Dr. Luc Bodin* - 2022
 - Formation *massage Lomi Lomi* — 2020
 - Formation *massage des 5 continents*<br>Golden Age Village — 2018
