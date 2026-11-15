@@ -9,8 +9,8 @@ image-de-fond: html-bkg-5
 
 {% include prev-next-buttons.liquid %}
 
-***<i class="fa fa-gift" aria-hidden="true"></i> Faites plaisir à vos proches <i class="fa fa-gift" aria-hidden="true"></i>***
-***Offrez un bon cadeau !***
+***<i class="fa fa-gift" aria-hidden="true"></i> Fais plaisir à tes proches <i class="fa fa-gift" aria-hidden="true"></i>***
+***Offre un bon cadeau !***
 
 {% include bons-cadeaux.liquid %}
 
