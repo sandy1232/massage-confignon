@@ -28,7 +28,7 @@ image-de-fond: html-bkg-4
 
 {: class="notes" }
 Si tu désires modifier ou annuler un rendez-vous, merci de m’en informer au plus tard un jour ouvrable à l’avance.
-J’accepte les paiements par carte Visa, Mastercard, Maestro, American Express, Vpay, par Twint et en espèces.
+J’accepte les paiements par carte Visa, Mastercard, Maestro, American Express, Vpay, par TWINT et en espèces.
 
 <!--
 ## Promotions
