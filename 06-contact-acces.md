@@ -25,7 +25,9 @@ Suisse
 Situé à Confignon, Genève, mon cabinet est accessible avec la ligne du *tram 14*, direction *Bernex*, arrêt *Croisée de Confignon*.
 L’institut se trouve à 2 minutes à pied de l’arrêt, direction Bernex, côté gauche.
 
-Si vous venez en voiture, prenez la sortie d’autoroute *Bernex, Onex, Genève*. Une place de stationnement est disponible devant l’institut.
+Si tu viens en voiture, prends la sortie d’autoroute *Bernex, Onex, Genève*. Une place de stationnement est disponible devant l’institut.
+
+🐶 Bonnie, ma bouledogue anglaise, partage souvent mes journées au cabinet. Si tu es allergique ou pas à l’aise avec les chiens, dis-le-moi simplement en réservant et je m’organise.
 
 ---
 
